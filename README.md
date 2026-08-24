@@ -1,5 +1,5 @@
 <h1 align='center', front_size=250px>ELIST TECH</h1>
-<h2 align='center'>Performance Report 2019-2022</h2>  
+<h2 align='center'>Ecommerce Performance Report 2019-2022</h2>  
 
 <div class='Overview'>
   <h1 align='center'>Overview</h1>
@@ -24,7 +24,7 @@
     
   
   <h2> Dataset Structure and ERD (Entity Relationship Diagram) </h2>
-  <p>The company has a core dataset consisting of orders, order statuses, customers, products, and geographic information with a total of 108,127 rows.</p>
+  <p>The company has a core dataset consisting of orders, order status, customers, products, and geographic information with a total of 108,127 rows.</p>
   <img width="1875" height="1114" alt="image" src="https://github.com/user-attachments/assets/6e2f221a-909a-4165-9ded-dd4acdec4393" />
 </div>
 
