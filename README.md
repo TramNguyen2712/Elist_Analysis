@@ -30,6 +30,7 @@
 
 <div class='Summary'>
   <h1 align='center'>Summary</h1>
+  In Processing
 </div>
 
 <div class='Insight'>
@@ -37,22 +38,27 @@
 
   <div class='Sales Trends'>
     <h2>Sales Trends</h2>
+    In Processing
   </div>
 
   <div class='Growth Rate'>
     <h2>Growth Rate</h2>
+    In Processing
   </div>
 
   <div class='Product Performance'>
     <h2>Product Trends</h2>
+    In Processing
   </div>
 
   <div class='Loyalty Program'>
     <h2>Loyalty Program</h2>
+    In Processing
   </div>
 
   <div class='Region'>
     <h2>Region</h2>
+    In Processing
   </div>
   
 </div>
@@ -62,22 +68,27 @@
 
   <div class='Sales Trends'>
     <h2>Sales</h2>
+    In Processing
   </div>
 
   <div class='Product Performance'>
     <h2>Product</h2>
+    In Processing
   </div>
 
   <div class='Loyalty Program'>
     <h2>Loyalty Program</h2>
+    In Processing
   </div>
 
   <div class='Region'>
     <h2>Region</h2>
+    In Processing
   </div>
 
   <div class='Refund Rate'>
     <h2>Refund Rate</h2>
+    In Processing
   </div>
 </div>
 
