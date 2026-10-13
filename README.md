@@ -16,11 +16,11 @@
   
   <h2> North Star Metrics </h2>
   <ul>
-    <li><strong>Sales trends</strong> - Focusing on key metrics like total sales, number of orders placed, and average order value (AOV) by region, product, and brand. </li>
-    <li><strong>Growth rate</strong> - Analyzing growth rates by different dimensions, including sales and AOV.</li>
-    <li><strong>Product performance</strong> - Analyzing different product categories, market impact, and refund rates to inform strategic product decisions.</li>
-    <li><strong>Loyalty program performance</strong> - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention. </li>
-    <li><strong>Regional results</strong> - Evaluating regional demand and product performance within regions to identify areas for improvement. </li>
+    <li><strong>Sales Trends</strong> - Focusing on key metrics like total sales, number of orders placed, and average order value (AOV) by region, product, and brand. </li>
+    <li><strong>Growth Rate</strong> - Analyzing growth rates by different dimensions, including sales and AOV.</li>
+    <li><strong>Product Performance</strong> - Analyzing different product categories, market impact, and refund rates to inform strategic product decisions.</li>
+    <li><strong>Region</strong> - Evaluating regional demand and product performance within regions to identify areas for improvement. </li>
+    <li><strong>Loyalty Program Performance</strong> - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention. </li>
   </ul>
     
   
@@ -73,7 +73,7 @@
   </div>
 
   <div class='Product Performance'>
-    <h2>Product</h2>
+    <h2>Product Performance</h2>
     <div align='center'>
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/040053f1-ec5b-473b-a92a-f9f832d14638" />
     </div>
