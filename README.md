@@ -3,7 +3,8 @@
 
 <div class='Overview'>
   <h1 align='center'>Overview</h1>
-  <p>Founded in 2018, <strong>Elist is an e-commerce company that sells popular electronics products</strong> and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through its website as well as its mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their more popular products have been products from Apple, Samsung, and ThinkPad.</p>
+  <p>Founded in 2018, <strong>Elist is an e-commerce company that sells popular electronics products</strong> and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through its website as well as its mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their most popular items have been Apple, Samsung, and Lenovo products.</p>
+  <p>This report analyzes Elist's sales performance from 2019 to 2022 to identify key trends, assess business growth, and understand changes in customer purchasing behavior. By examining sales volume, average order value (AOV), return rates, and loyalty program effectiveness, the report aims to identify opportunities to increase revenue, improve customer retention, and minimize potential losses from returns. These findings will help Elist make data-driven decisions regarding marketing strategies, product performance, and future business growth.</p>
   
   <h2> Business Questions </h2>
   <ul style='number'>
@@ -42,9 +43,9 @@
     <h2>Sales Trends</h2>
     <div align='center'> <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/c673476e-d1d1-4611-88f6-f7582044a3b3" /> </div>
     <p>   </p>
-    <p><strong>In 2020,</strong> all metrics - total sales, AOV, and order count surged. Sales grew 163% to $10.16M, AOV rose 31% to $300, and order count doubled +101%. More customers are buying and spending more per order due to pandemic-driven online buying.</p>
+    <p><strong>In 2020,</strong> all metrics - total sales, AOV, and order count surged. Sales grew 163% to $10.16M, AOV rose 31% to $300, and order count doubled +101%. More customers were buying and spending more per order due to pandemic-driven online buying.</p>
     <p><strong>In 2021,</strong> order volume kept growing 6% to a peak of 35.9K while sales dropped 10% to $9.13M and AOV fell 15% to $255. Customers bought fewer high-price products and more low-price ones. </p>
-    <p><strong>2019 vs 2022:</strong> Sales in 2022 are 28% above 2019 and order 33% above, while AOV is unchanged. That raised open questions: Was 2020 a temporary spike, and is the business returning to normal when stores reopened in 2022?</p>
+    <p><strong>2019 vs 2022:</strong> Sales in 2022 were 28% above 2019 and order 33% above, while AOV was unchanged. That raised open questions: Was 2020 a temporary spike, and was the business returning to normal when stores reopened in 2022?</p>
     <p>   </p>
     <div align='center'>
     <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
@@ -57,13 +58,13 @@
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/b50d15ef-cbf1-4ac5-a88b-4a134f6d2a13" />
     </div>
     <p>   </p>
-    <p><strong>September peaked, followed by an October crash every year.</strong> Sales fell every October: -18% (2019), -24% (2020), -26% (2021), and -55% (2022), while September was usually strong just before. Check whether any promotions or campaigns end in September and pull demand forward, or whether customers hold off until Black Friday</p>
-    <p><strong>November and December are holiday peaks in four years.</strong> Sales rose about 11-35% in November and again in December every year (Black Friday, Christmas, New Year). December is the best performance overall.</p>
+    <p><strong>September peaked, followed by an October crash every year.</strong> Sales fell every October: -18% (2019), -24% (2020), -26% (2021), and -55% (2022), while September was usually strong just before. Check whether any promotions or campaigns ended in September and pulled demand forward, or whether customers held off until Black Friday</p>
+    <p><strong>November and December were holiday peaks every four years.</strong> Sales rose about 11-35% in November and again in December every year (Black Friday, Christmas, New Year). December was the best performance overall.</p>
     <p><strong>February underperformed during 2019-2022.</strong> February sales dropped about 30% every year except in 2020 (+4%). On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so October is the weakest month. </p>
     <div align='center'>
       <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/09068e07-d52f-413d-adb1-cb813532af3e" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/ce8c3a16-4198-474d-955f-7e46c8b9b00b" /></div>
     <p>    </p>
-    <p><strong>Order volume drives monthly sales.</strong> In most months, order growth and sales growth move in the same direction, and the largest fluctuations in sales are also reflected in order volume. The average order value (AOV) typically fluctuates within a range of +- 5%, and there are months when AOV does not move in the same direction as sales, so AOV rarely explains monthly sales changes.</p>
+    <p><strong>Order volume drove monthly sales.</strong> In most months, order growth and sales growth moved in the same direction, and the largest fluctuations in sales were also reflected in order volume. The average order value (AOV) typically fluctuates within a range of +- 5%, and there were months when AOV did not move in the same direction as sales, so AOV rarely explained monthly sales changes.</p>
     <p><strong>March 2020 saw the largest surge in orders.</strong> Orders increased by approximately 47% along with a 50% increase in sales, matching the start of COVID-19 lockdowns.</p>
     <p><strong>Average order value (AOV)</strong> increased by approximately 18% in September 2022 - the largest increase - followed by a decrease of approximately 16% in October 2022 - the largest drop - coupled with a -28% drop in orders, resulting in a -55% decrease in sales.</p>
     <p><strong>Sales increased</strong> by 17% in November and 26% in December 2022; AOV rose about 3-5%, but orders decreased slightly (approximately -8% and -3%), so the recovery came from larger orders, not from a higher number of orders in late 2022</p>
@@ -86,13 +87,13 @@
     </div>
     <p>  </p>
     <p><strong>AirPods ($160) and charging cables ($20)</strong> accounted for most orders, but revenue per order was very low. MacBook Airs and ThinkPads accounted for a small portion of orders but contributed significantly to revenue. Monitors combined both elements, accounting for approximately 20% of orders and being the largest revenue-generating product. Its order share increased to around 29% by the end of 2022. </p>
-    <p><strong>Samsung webcams/strong>, launched in 2020, increased to around 10% of orders in 2021-2022, while Apple's iPhones and Bose headphones had the lowest order and sales share in any year.</p>
+    <p><strong>Samsung webcams</strong>, launched in 2020, increased to around 10% of orders in 2021-2022, while Apple's iPhones and Bose headphones had the lowest order and sales share in any year.</p>
 </p>
     <div align='center'>
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/9675d46b-98b8-44d1-9171-2fee2873040c" />
     </div>
     <p>   </p>
-    <p><strong>Headphones</strong> remain the largest contributor to sales but saw a slight decline in 2022. Their order share decreased from 46-49% (2019-2020) to 41-43% (2021-2022).</p>
+    <p><strong>Headphones</strong> remained the largest contributor to sales but saw a slight decline in 2022. Their order share decreased from 46-49% (2019-2020) to 41-43% (2021-2022).</p>
     <p><strong>Accessories' order share </strong> increased from 21% to a peak of 35% in Q2 2022, then fell back to 27% by the end of 2022.</p>
     <p><strong>Monitor's share </strong> remained around 21-22% every year but surged to 26% by the end of 2022, the highest level for this period.</p>
     <p><strong>Laptops</strong> accounted for a small fraction of total orders (4-9%), but with order values exceeding $1,000, they had a significant impact on revenue. This share doubled in 2020 (to 8-9%) and then fell back to around 5%, returning to 2019 levels.</p>
@@ -141,7 +142,7 @@
     <p>   </p>
     <p>The refund rate increased from 5.7% to 9.2%, and the number of returned items more than tripled (from 965 to 3,120) in 2020.</p>
     <p><strong>AirPods and monitors drove refund volume.</strong> AirPods had 1,529 refunds, and monitors had 820 refunds in 2020. However, <strong>laptops</strong> had the highest refund rates: MacBook Air (18.3% in 2019, 16.9% in 2020) and ThinkPad (17.1%, 17%).</p>
-    <p><<strong>Accessories were rarely returned</strong>. Charging cables had low refund rates (2.36% in 2019 and 2.59% in 2020). Bose had a 0% rate, but due to the low sales volume, this number is not significant.</p>
+    <p><strong>Accessories were rarely returned</strong>. Charging cables had low refund rates (2.36% in 2019 and 2.59% in 2020). Bose had a 0% rate, but due to the low sales volume, this number is not significant.</p>
     <p><strong>All products recorded no refunds in 2022,</strong> which is almost certainly due to a lack of data or a change in the refund policy. Additionally, many refunds were recorded more than two years after delivery. Both of these need to be confirmed with the data engineering team before reporting refund KPIs.</p>
 </p>
   </div>  
