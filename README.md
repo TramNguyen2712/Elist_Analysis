@@ -46,7 +46,9 @@
     <p><strong>2021:</strong> Order volume kept growing 6% to a peak of 35.9K while sales dropped 10% to $9.13M and AOV fell 15% to $255. Customers bought fewer high-price products and more low-price ones. </p>
     <p><strong>2019 vs 2022:</strong> Sales in 2022 are 28% above 2019 and order 33% above, while AOV is unchanged. That raised open questions: Was 2020 a temporary spike, and is the business returning to normal when stores reopened in 2022?</p>
     <p>   </p>
-    <img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" /> <img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
+    <div align='center'>
+    <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
+    </div>
   </div>
 
   <div class='Growth Rate'>
@@ -56,7 +58,8 @@
     <p>September peaked, followed by an October crash every year. Sales fell every October: -18% (2019), -24% (2020), -26% (2021), and -55% (2022), while September was usually strong just before. Check whether any promotions or campaigns end in September and pull demand forward, or whether customers hold off until Black Friday</p>
     <p>November and December are holiday peaks in four years. Sales rose about 11-35% in November and again in December every year (Black Friday, Christmas, New Year). December is the best performance overall.</p>
     <p>February underperformed during 2019-2022. February sales dropped about 30% every year except in 2020 (+4%). On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so October is the weakest month. </p>
-    <img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/09068e07-d52f-413d-adb1-cb813532af3e" /> <img width="450" height="305" alt="image" src="https://github.com/user-attachments/assets/ce8c3a16-4198-474d-955f-7e46c8b9b00b" />
+    <div align='center'>
+    <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/09068e07-d52f-413d-adb1-cb813532af3e" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/ce8c3a16-4198-474d-955f-7e46c8b9b00b" /></div>
     <p>    </p>
     <p>Order volume drives monthly sales. In most months, order growth and sales growth move in the same direction, and the largest fluctuations in sales are also reflected in order volume. The average order value (AOV) typically fluctuates within a range of +- 5%, and there are months when AOV does not move in the same direction as sales, so AOV rarely explains monthly sales changes.</p>
     <p>March 2020 saw the largest surge in orders. Orders increased by approximately 47% along with a 50% increase in sales, matching the start of COVID-19 lockdowns.</p>
