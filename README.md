@@ -6,14 +6,6 @@
   <p>Founded in 2018, <strong>Elist is an e-commerce company that sells popular electronics products</strong> and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through its website as well as its mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their most popular items have been Apple, Samsung, and Lenovo products.</p>
   <p>This report analyzes Elist's sales performance from 2019 to 2022 to identify key trends, assess business growth, and understand changes in customer purchasing behavior. By examining sales volume, average order value (AOV), return rates, and loyalty program effectiveness, the report aims to identify opportunities to increase revenue, improve customer retention, and minimize potential losses from returns. These findings will help Elist make data-driven decisions regarding marketing strategies, product performance, and future business growth.</p>
   
-  <h2> Business Questions </h2>
-  <ul style='number'>
-    <li><strong>What were the overall trends in sales from 2019-2022?</strong></li>
-    <li><strong>What were Elist's monthly and yearly growth rates?</strong></li>
-    <li><strong>How is the new loyalty program performing? Should we keep using it?</strong></li>
-    <li><strong>What were our refund rates and average order values?</strong></li>
-  </ul>
-  
   <h2> North Star Metrics </h2>
   <ul>
     <li><strong>Sales Trends</strong> - Focusing on key metrics like total sales, number of orders placed, and average order value (AOV) by region, product, and brand. </li>
@@ -23,10 +15,8 @@
     <li><strong>Loyalty Program Performance</strong> - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention. </li>
   </ul>
     
-  
-  <h2> Dataset Structure and ERD (Entity Relationship Diagram) </h2>
-  <p>The company has a core dataset consisting of orders, order status, customers, products, and geographic information with a total of 108,127 rows.</p>
-  <img width="1875" height="1114" alt="image" src="https://github.com/user-attachments/assets/6e2f221a-909a-4165-9ded-dd4acdec4393" />
+  <h2> Summary </h2>
+  <p></p>
 </div>
 
 <!-- <div class='Summary'>
@@ -185,6 +175,12 @@
     <h2>Refund Rate</h2>
     <p>MacBook Air and ThinkPad laptops had the highest refund rate, so investigate the reasons for laptop returns (product defects, shipping damage, and mismatches between product descriptions and customer expectations). </p>
     <p>Work with the data engineering team to investigate missing 2022 refund records.</p>
+
+<div>
+  <h2 align='center'> Dataset Structure and ERD (Entity Relationship Diagram) </h2>
+  <p>The company has a core dataset consisting of orders, order status, customers, products, and geographic information with a total of 108,127 rows.</p>
+  <img width="1875" height="1114" alt="image" src="https://github.com/user-attachments/assets/6e2f221a-909a-4165-9ded-dd4acdec4393" />
+</div>
 
   </div>
 </div>
