@@ -16,7 +16,16 @@
   </ul>
     
   <h2> Summary </h2>
-  <p></p>
+  <p>Elist's sales nearly tripled in 2020 as COVID-19 pushed online shopping online, peaked at $1.25M in December 2020, then declined through 2021 and 2022. However, that was still 28% above 2019.</p>
+  <p><strong>Key Insights:</strong></p>
+  <ul>
+    <li><strong>Sales:</strong> 2020 growth came from both more orders (+102%) and AOV (+31%). Since then, AOV returned to its 2019 level, and order volume fell 38% in 2022.</li>
+    <li><strong>Seasonality:</strong> December and September were the strongest months. October and February were the weakest every year. Monthly sales peaked in December 2020 and stepped down in early 2021, early 2022, and again in October 2022 ($0.18M, the low of the period).</li>
+    <li><strong>Product:</strong> The 27-inch gaming monitor, MacBook Air, and AirPods drive about 84% of sales. The monitor alone grew to about half of sales by late 2022.</li>
+    <li><strong>Region:</strong> North America is about half of sales and held up best in 2022. APAC grew the most since 2019, while LATAM tended to shift toward low-price accessories.</li>
+    <li><strong>Loyalty:</strong> Loyalty members overtook non-members in early 2021 and now make up 55% of sales, spending $31 more per order ($245 vs $214).</li>
+    <li><strong>Refunds:</strong> Laptops are refunded most often (about 1 in 6 orders in 2019-2020), while AirPods and monitors drove refund amounts. The refund data in 2022 was missing.</li>
+  </ul>
 </div>
 
 <!-- <div class='Summary'>
