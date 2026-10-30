@@ -54,20 +54,20 @@
   <div class='Growth Rate'>
     <h2>Seasonality</h2>
     <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/b50d15ef-cbf1-4ac5-a88b-4a134f6d2a13" />
+      <img width="85%" height="732" alt="Monthly sales, 2019–2022, with peak, trough and decline points marked" src="https://github.com/user-attachments/assets/2f0b3f54-c88f-4688-b0af-717d66417a82" />
     </div>
     <p>   </p>
-    <p><strong>September peaked, followed by an October crash every year.</strong> Sales fell every October: -18% (2019), -24% (2020), -26% (2021), and -55% (2022), while September was usually strong just before. Check whether any promotions or campaigns ended in September and pulled demand forward, or whether customers held off until Black Friday</p>
-    <p><strong>November and December were holiday peaks every four years.</strong> Sales rose about 11-35% in November and again in December every year (Black Friday, Christmas, New Year). December was the best performance overall.</p>
-    <p><strong>February underperformed during 2019-2022.</strong> February sales dropped about 30% every year except in 2020 (+4%). On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so October is the weakest month. </p>
+    <p><strong>Sales peaked in December 2020 at $1.25M.</strong> This is where the decline begins: sales fell to about $0.7M by February 2021 and stayed at roughly $0.6–0.9M through 2021.</p>
+    <p><strong>A second step-down came in early 2022.</strong> Sales fell from about $0.88M in December 2021 to under $0.5M by February 2022, then held at about $0.4–0.5M.</p>
+    <p><strong>October 2022 was the low point of the period at $0.18M</strong>, before a holiday rebound in November–December 2022.</p>     
     <div align='center'>
-      <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/09068e07-d52f-413d-adb1-cb813532af3e" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/ce8c3a16-4198-474d-955f-7e46c8b9b00b" /></div>
+      <img width="85%" height="727" alt=" Sales by calendar month (Jan–Dec), one line or bar group per year, with October and December highlighted" src="https://github.com/user-attachments/assets/f5bf4938-fd6b-45bb-9851-ae72088cd130" />
+    </div>
     <p>    </p>
-    <p><strong>Order volume drove monthly sales.</strong> In most months, order growth and sales growth moved in the same direction, and the largest fluctuations in sales were also reflected in order volume. The average order value (AOV) typically fluctuates within a range of +- 5%, and there were months when AOV did not move in the same direction as sales, so AOV rarely explained monthly sales changes.</p>
-    <p><strong>March 2020 saw the largest surge in orders.</strong> Orders increased by approximately 47% along with a 50% increase in sales, matching the start of COVID-19 lockdowns.</p>
-    <p><strong>Average order value (AOV)</strong> increased by approximately 18% in September 2022 - the largest increase - followed by a decrease of approximately 16% in October 2022 - the largest drop - coupled with a -28% drop in orders, resulting in a -55% decrease in sales.</p>
-    <p><strong>Sales increased</strong> by 17% in November and 26% in December 2022; AOV rose about 3-5%, but orders decreased slightly (approximately -8% and -3%), so the recovery came from larger orders, not from a higher number of orders in late 2022</p>
-
+    <p><strong>October falls below September, and November-December (holiday season) always recover. The pattern repeated in all four years.</strong> Check whether any promotions or campaigns ended in September and pulled demand forward, or whether customers held off until Black Friday. </p>
+    <p><strong>October 2022 was extreme.</strong> It made up only 3.6% of 2022's sales, about half its usual share of 7-8%. 2022 also never recovered its usual holiday level (December was 5.3% vs 10-11% in 2019-2020).</p>
+    <p><strong>December was the best month in 2019 and 2020</strong>, while in 2021 and 2022 January was the strongest month. </p>
+    <p><strong>The February dip is not consistent.</strong> February was weak in 2019 and 2020, but close to average in 2021–2022. On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so October is the weakest month.</p>
 
   </div>
 
