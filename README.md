@@ -112,7 +112,7 @@
     <p>  </p>
     <p><strong>APAC is shifting toward monitor products.</strong> Its monitor share rose every year, from 20.8% to 24.66%, the highest of any region. </p>
     <p><strong>NA drives the global shift toward accessories.</strong> NA accessories share rose from 21% (2020) to 33% (2022) of orders, while headphones fell from 48% to 41%.</p>
-    <p><strong>LATAM moved most toward cheap products.</strong> Accessories went from about 28% to 50% of orders while headphones fell from 42% to 30%, monitors from 20% to 16%, and laptops to about 3%. More low-price orders and fewer high-value ones happened in LATAM that led to the steepest drop in 2022 (-56%).</p>
+    <p><strong>LATAM moved most toward cheap products.</strong> Accessories went from about 28% to 50% of orders while headphones fell from 42% to 30%, monitors from 20% to 16%, and laptops to about 3%. More low-price orders and fewer high-value ones happened in LATAM, which led to the steepest drop in 2022 (-56%).</p>
 
     
   </div>
@@ -120,16 +120,33 @@
   <div class='Loyalty Program'>
     <h2>Loyalty Program</h2>
     <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/c2b9f119-8cad-4b50-a900-831eaf1430ba" />
+      <h3>Sales</h3>
+      <img width="1287" height="727" alt="Screenshot 2026-10-30 161945" src="https://github.com/user-attachments/assets/aef01d95-11d1-48ee-9833-c54982b5b9d9" />
+    </div>
+    <div align='center'>
+      <h3>Order Volume</h3>
+      <img width="1341" height="737" alt="image" src="https://github.com/user-attachments/assets/58cbee54-02a6-4e04-86a8-b93274b40f7a" />
+    </div>
+    <div align='center'>
+      <h3>AOV</h3>
+      <img width="1275" height="726" alt="Screenshot 2026-10-30 210808" src="https://github.com/user-attachments/assets/96349d6f-8658-4757-998c-63f69cb7ea75" />
     </div>
     <p>  </p>
-    <p><strong>Loyalty members kept growing after the pandemic boom.</strong> Their sales rose from $0.43M (2019) to $2.72M (2022), about $2.3M, and AOV grew 18% ($207 to $245), while non-loyalty sales fell from $3.45M in 2019 to $2.24M in 2022, and AOV declined 8% ($233 to $214). </p>
-    <p><strong>In 2022, loyalty members spent about $31 more per order than non-loyalty customers ($245 vs $214).</strong> Loyalty AOV stayed nearly flat from 2021 (−1.6%), while non-loyalty AOV fell about 18%.</p>
+    <p><strong>Loyalty members overtook non-loyalty members in orders first in December 2020, then in sales three months later (March 2021).</strong> Loyalty AOV remained lower until May 2021, so members beat non-members in sales by ordering more.</p>
+    <p><strong>Members led for about 18 months.</strong> From spring 2021 to August 2022, they made up about 55-63% of sales and spent more per order.</p>
+    <p><strong>Both groups' orders fell from mid-2021, but members fell faster in late 2022.</strong> Member orders dropped from about 1,650 a month in the early-2021 peak to about 250 in December 2022. Non-members ended at about 470. From September 2022, non-members led again in orders, sales, and AOV.</p>
+    <p> </p>
+    <div align='center' width='100%'>
+      <h3>Loyalty's order share by Marketing Channel</h3>
+      <img width="50%" alt="image" src="https://github.com/user-attachments/assets/3a343b77-cf1c-4ef1-8777-9cbbaf7cd71d" /> <img width="48%" alt="image" src="https://github.com/user-attachments/assets/11f14bf9-e291-4e35-ad55-1cf1fb182e4e" />      
+    </div>
+    <p><strong>Email and Social Media customers joined the loyalty program first.</strong> Both passed 50% loyalty share in early 2020: Social Media Q1 2020 (56%), Email in Q2 2020 (63%). Email peaked at 73% in Q4 2020. These channels likely reach customers who already know the brand</p>
     <div align='center'>
+      <h3>Loyalty by Product</h3>
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/33e6fc1c-70ed-4837-8dad-83203ec07c21" />
     </div>
     <p></p>
-    <p><strong>Members are mostly headphone buyers.</strong> More than half of orders from members were headphones every year (59% in 2019 and 54% in 2022). Loyalty customers are shifting toward monitors (270 orders in 2019 to 2k orders in 2022) that explains why loyalty AOV kept rising. They rarely bought laptops. Laptops are only 2-4% of their orders.</p>
+    <p><strong>Members are mostly headphone buyers.</strong> More than half of orders from members were headphones every year (59% in 2019 and 54% in 2022). Loyalty customers are shifting toward monitors (270 orders in 2019 to 2k orders in 2022), which explains why loyalty AOV kept rising. They rarely bought laptops. Laptops are only 2-4% of their orders.</p>
 
   </div>
 
