@@ -44,7 +44,7 @@
     <p>   </p>
     <p><strong>In 2020,</strong> all metrics - total sales, AOV, and order count surged. Sales grew 163% to $10.16M, AOV rose 31% to $300, and order count doubled +101%. More customers were buying and spending more per order due to pandemic-driven online buying.</p>
     <p><strong>In 2021,</strong> order volume kept growing 6% to a peak of 35.9K while sales dropped 10% to $9.13M and AOV fell 15% to $255. Customers bought fewer high-price products and more low-price ones. </p>
-    <p><strong>2019 vs 2022:</strong> Sales in 2022 were 28% above 2019 and order 33% above, while AOV was unchanged. That raised open questions: Was 2020 a temporary spike, and was the business returning to normal when stores reopened in 2022?</p>
+    <p><strong>2019 vs 2022:</strong> Sales in 2022 were 28% above 2019, and orders were 33% above, while AOV was unchanged. That raised open questions: Was 2020 a temporary spike, and was the business returning to normal when stores reopened in 2022?</p>
     <p>   </p>
     <div align='center'>
     <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
@@ -121,15 +121,15 @@
     <h2>Loyalty Program</h2>
     <div align='center'>
       <h3>Sales</h3>
-      <img width="1287" height="727" alt="Screenshot 2026-10-30 161945" src="https://github.com/user-attachments/assets/aef01d95-11d1-48ee-9833-c54982b5b9d9" />
+      <img width="80%" height="727" alt="Screenshot 2026-10-30 161945" src="https://github.com/user-attachments/assets/aef01d95-11d1-48ee-9833-c54982b5b9d9" />
     </div>
     <div align='center'>
       <h3>Order Volume</h3>
-      <img width="1341" height="737" alt="image" src="https://github.com/user-attachments/assets/58cbee54-02a6-4e04-86a8-b93274b40f7a" />
+      <img width="80%" height="737" alt="image" src="https://github.com/user-attachments/assets/58cbee54-02a6-4e04-86a8-b93274b40f7a" />
     </div>
     <div align='center'>
       <h3>AOV</h3>
-      <img width="1275" height="726" alt="Screenshot 2026-10-30 210808" src="https://github.com/user-attachments/assets/96349d6f-8658-4757-998c-63f69cb7ea75" />
+      <img width="80%" height="726" alt="Screenshot 2026-10-30 210808" src="https://github.com/user-attachments/assets/96349d6f-8658-4757-998c-63f69cb7ea75" />
     </div>
     <p>  </p>
     <p><strong>Loyalty members overtook non-loyalty members in orders first in December 2020, then in sales three months later (March 2021).</strong> Loyalty AOV remained lower until May 2021, so members beat non-members in sales by ordering more.</p>
@@ -138,15 +138,24 @@
     <p> </p>
     <div align='center' width='100%'>
       <h3>Loyalty's order share by Marketing Channel</h3>
-      <img width="50%" alt="image" src="https://github.com/user-attachments/assets/3a343b77-cf1c-4ef1-8777-9cbbaf7cd71d" /> <img width="48%" alt="image" src="https://github.com/user-attachments/assets/11f14bf9-e291-4e35-ad55-1cf1fb182e4e" />      
+      <img width="70%" height="742" alt="image" src="https://github.com/user-attachments/assets/46bb4df7-0645-43ee-a368-9cbf64a77298" />
+      <img width="70%" height="737" alt="image" src="https://github.com/user-attachments/assets/198bfe56-517c-4e84-b9dc-94e0f33ac2a3" />     
     </div>
     <p><strong>Email and Social Media customers joined the loyalty program first.</strong> Both passed 50% loyalty share in early 2020: Social Media Q1 2020 (56%), Email in Q2 2020 (63%). Email peaked at 73% in Q4 2020. These channels likely reach customers who already know the brand</p>
+    <p><strong>Direct customers joined more slowly</strong> (23% in Q1 2020 -> 40% in Q4 2020 -> 53% in Q1 2021). But Direct made up about 62-75% of loyalty orders, so members only became the majority overall once Direct passed 50%. That matched the overall crossover (December 2020 for orders and March 2021 for sales).</p>
+    <p><strong>Something happended in Q1 2021.</strong> Almost every channel jumped that quarter: Direct 40% -> 53%, Affiliate 14% -> 33%, Social Media 49% -> 69%. Check whether there was a loyalty promotion or a sign-up change during that period.</p>
+    <p><strong>Affiliate customers rarely join.</strong> Their loyalty share never went above 36%. Social Media and Affiliate are tiny for loyalty, each about 1–4% of loyalty orders./p>
+    <p><strong>The 2022 decline hit every channel and Direct the hardest.</strong> Direct fell from 55% to 34% between Q2 and Q4 2022, and Email from 57% to 48%.</p>
     <div align='center'>
-      <h3>Loyalty by Product</h3>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/33e6fc1c-70ed-4837-8dad-83203ec07c21" />
+      <h3>What Direct and Email customers buy</h3>
+      <img width="80%" height="757" alt="image" src="https://github.com/user-attachments/assets/b5d1a23a-e90b-4276-aba3-52bf624ea850" />
     </div>
     <p></p>
-    <p><strong>Members are mostly headphone buyers.</strong> More than half of orders from members were headphones every year (59% in 2019 and 54% in 2022). Loyalty customers are shifting toward monitors (270 orders in 2019 to 2k orders in 2022), which explains why loyalty AOV kept rising. They rarely bought laptops. Laptops are only 2-4% of their orders.</p>
+    <p><strong>In Direct, members are AirPods buyers.</strong> AirPods made up about 62% of Direct member orders, about twice the share among Direct non-members (27-31%). AirPods is the main product that brings Direct customers into the program</p>
+    <p><strong>Email members buy the highest-value mix.</strong> Monitors are 29.48% of Email member orders, the highest monitor share of any group. Webcams add another 21% and Headphones 35%.</p>
+    <p><strong>Non-members mostly buy the charging cable.</strong> The charging cable made up 34-36% of Direct non-member orders and 65-67% of Email non-member orders, while members rarely buy it (about 1–2% in Direct, 12–14% in Email). Email reaches many non-members, but mostly for very low-value purchases.</p>
+    <p><strong>Laptop buyers don't join the program.</strong> MacBook Air is 4–7% of Direct non-member orders but only about 1–2% of member orders. Laptop buyers are the highest-value customers, but they mostly stay outside the program. This ties back to the 2020 non-member AOV spike. </p>
+    <p><strong>Webcams are a member product.</strong> They made up 10–21% of member orders in both channels, compared with 4–10% for non-members.</p>
 
   </div>
 
@@ -185,7 +194,11 @@
   <div class='Loyalty Program'>
     <h2>Loyalty Program</h2>
     <p>Expand loyalty benefits by promotions, reward points, and personalized product recommendations.</p>
+    <p>Email: promote monitors and webcams to members. These are already what Email members buy, so targeted campaigns for them should work well and also lift AOV.</p>
     <p>Convert repeat non-loyalty customers into loyalty members through sign-up incentives at checkout.</p>
+    <p>Direct: use AirPods to convert non-members. Non-members in Direct already buy AirPods (27–31% of their orders), so offer membership at AirPods checkout, such as member pricing or bonus points.</p>
+    <p>Email: turn cable buyers into bigger orders. Two-thirds of Email non-member orders are $20 cables. Test “join and get a free cable” or bundle the cable with AirPods or monitors.</p>
+    <p>Offer membership to laptop buyers. MacBook buyers are high-value but rarely join. A membership offer at laptop checkout (extended warranty, accessory discount) could keep them buying.</p>
 
   </div>
 
