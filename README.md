@@ -104,7 +104,7 @@
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/e770af63-b96b-4737-86cd-5f104d19f71a" />
     </div>
     <p>  </p>
-    <p><strong>The COVID cycle was global.</strong> Every region roughly increased in 2020 and fell in 2022, so it is a market-wide effect, not one region’s problem.</p>
+    <p><strong>The COVID cycle was global.</strong> Every region roughly increased in 2020 and fell in 2022, so it was a market-wide effect, not a regional problem.</p>
     <p><strong>The 2021 dip came mostly from NA.</strong> Total sales fell about $1 million, and NA accounted for about $0.8M of it, while other regions were nearly flat (-3 to -6%).</p>
     <div align='center'>
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/b081bf32-a628-4765-a979-38b961789038" />
@@ -112,7 +112,7 @@
     <p>  </p>
     <p><strong>APAC is shifting toward monitor products.</strong> Its monitor share rose every year, from 20.8% to 24.66%, the highest of any region. </p>
     <p><strong>NA drives the global shift toward accessories.</strong> NA accessories share rose from 21% (2020) to 33% (2022) of orders, while headphones fell from 48% to 41%.</p>
-    <p><strong>LATAM moved most toward cheap products.</strong> Accessories went from about 28% to 50% of orders while headphones fell from 42% to 30%, monitors from 20% to 16%, and laptops to about 3%. More low-price orders and fewer high-value ones happened in LATAM, which led to the steepest drop in 2022 (-56%).</p>
+    <p><strong>LATAM moved most toward cheap products.</strong> Accessories went from about 28% to 50% of orders, while headphones fell from 42% to 30%, monitors from 20% to 16%, and laptops to about 3%. LATAM saw more low-price orders and fewer high-value ones, which drove the steepest drop in 2022 (-56%).</p>
 
     
   </div>
@@ -159,8 +159,8 @@
 
   </div>
 
- <div class='Refund'>
-    <h2>Refund</h2>
+ <div class='Refunds'>
+    <h2>Refunds</h2>
     <div align='center'>
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/23ba95a4-157d-449d-b2ee-464b4537ce66" />
     </div>
@@ -168,8 +168,22 @@
     <p>The refund rate increased from 5.7% to 9.2%, and the number of returned items more than tripled (from 965 to 3,120) in 2020.</p>
     <p><strong>AirPods and monitors drove refund volume.</strong> AirPods had 1,529 refunds, and monitors had 820 refunds in 2020. However, <strong>laptops</strong> had the highest refund rates: MacBook Air (18.3% in 2019, 16.9% in 2020) and ThinkPad (17.1%, 17%).</p>
     <p><strong>Accessories were rarely returned</strong>. Charging cables had low refund rates (2.36% in 2019 and 2.59% in 2020). Bose had a 0% rate, but due to the low sales volume, this number is not significant.</p>
-    <p><strong>All products recorded no refunds in 2022,</strong> which is almost certainly due to a lack of data or a change in the refund policy. Additionally, many refunds were recorded more than two years after delivery. Both of these need to be confirmed with the data engineering team before reporting refund KPIs.</p>
+    <p><strong>All products recorded no refunds in 2022,</strong> which is almost certainly due to a lack of data or a change in the refund policy.</p>
 </p>
+    <h4>Time to refund</h4>
+    <div align='center'>
+      <img width="80%" height="730" alt="image" src="https://github.com/user-attachments/assets/8f9b5c61-e16a-4912-82bf-837ed40fe95e" />
+    </div>
+    <p><strong>Refund dates appear shifted by about 2 years.</strong> In every purchase year (2019-2021), refunds are recorded 600-800 days after delivery, with none of them earlier. The pattern is the same before and during COVID, so this might be an error in the refund timestamp. It likely explains why 2022 shows no refund (refunds for 2022 orders might fall in 2024) and why refund rates appear to drop in 2021 (missing data). Ask the data engineering team to verify the refund timestamp field before refund KPIs are reported.</p>
+    <p> </p>
+    <h4>Deep dive into laptop refunds - highest refund rates</h4>
+    <div align='center'>
+      <img width="80%" height="807" alt="image" src="https://github.com/user-attachments/assets/12dafeb6-a3ae-45f7-8fb5-c8000403f7dd" />
+    </div>
+    <p>Laptop refunds are a product issue, not in where they are sold. MacBook Air and ThinkPad Laptops are refunded at about 10-13% in every channel and on the website, where almost all laptops are sold.</p>
+    <p>North America had the highest laptop refund rate (MacBook ~15%, ThinkPad 17%) compared with about 9-13% in EMEA and LATAM. NA is also the biggest laptop market, so its returns cost the most</p>
+    <p>In the loyalty program, MacBook members show a 0% refund rate on 134 orders, which looks unusual. Should check with the data engineering team or stakeholder</p>
+   
   </div>  
 </div>
 
@@ -178,42 +192,47 @@
 
   <div class='Sales Trends'>
     <h2>Sales</h2>
-    <p>Sales usually fell sharply in October, with a 55% decline in October 2022. Introduce October promotions, targeted discounts, or product bundles to maintain demand between September and the holiday season.</p>
-    <p>November and December were consistently strong months during 2019-2022. Prepare inventory and marketing campaigns ahead of November and December to capture peak holiday demand.</p>
+    <p>Sales usually fell sharply in October, with a 55% decline in October 2022. Introduce <strong>October promotions, targeted discounts, or product bundles</strong> to maintain demand between September and the holiday season.</p>
+    <p>November and December were consistently strong months during 2019-2022. <strong>Prepare inventory and marketing campaigns</strong> ahead of November and December to capture peak holiday demand.</p>
 
   </div>
 
   <div class='Product Performance'>
     <h2>Product</h2>
-    <p>With three main products, gaming monitor, MacBook Air, and AirPods, maintain sufficient inventory, especially for the monitor, to capture order share gains toward the end of 2022.</p>
-    <p>Bundle lower-priced accessories such as charging cables with laptops and monitors to increase basket value.</p>
-    <p>Investigate the low sales of Bose Headphones and Apple iPhones before deciding whether to reduce inventory or discontinue products. </p>
+    <p>With three main products, gaming monitor, MacBook Air, and AirPods, <strong>maintain sufficient inventory</strong>, especially for the monitor, to capture order share gains toward the end of 2022.</p>
+    <p><strong>Bundle lower-priced accessories</strong> such as charging cables with laptops and monitors to increase basket value.</p>
+    <p><strong>Investigate the low sales of Bose Headphones and Apple iPhones</strong> before deciding whether to reduce inventory or discontinue products. </p>
 
   </div>
 
   <div class='Loyalty Program'>
     <h2>Loyalty Program</h2>
-    <p>Expand loyalty benefits by promotions, reward points, and personalized product recommendations.</p>
-    <p>Email: promote monitors and webcams to members. These are already what Email members buy, so targeted campaigns for them should work well and also lift AOV.</p>
-    <p>Convert repeat non-loyalty customers into loyalty members through sign-up incentives at checkout.</p>
-    <p>Direct: use AirPods to convert non-members. Non-members in Direct already buy AirPods (27–31% of their orders), so offer membership at AirPods checkout, such as member pricing or bonus points.</p>
-    <p>Email: turn cable buyers into bigger orders. Two-thirds of Email non-member orders are $20 cables. Test “join and get a free cable” or bundle the cable with AirPods or monitors.</p>
-    <p>Offer membership to laptop buyers. MacBook buyers are high-value but rarely join. A membership offer at laptop checkout (extended warranty, accessory discount) could keep them buying.</p>
+    <h4>Expand loyalty benefits by promotions, reward points, and personalized product recommendations.</h4>
+    <ul>
+      <li><strong>For Email customers: promote monitors and webcams to members.</strong> These are already what Email members buy, so targeted campaigns for them should work well and also lift AOV.</li>
+      <li><strong>For Direct customers: build member-only bundles around AirPods.</strong> AirPods made up 62.5% of Direct member orders. Offer member-only bundles such as AirPods + Webcam. Direct members already buy webcams (12.6% of their orders), so this pairs two products they like and adds about 2.5x more per order. Another bundle option is the AiPods + Monitor offer. Both Direct and Email members already bought monitors heavily (Direct 19.33% and Email 29.48%). A member discount on the monitor for AiPods buyers has the biggest potential effect on AOV. Test member-only bundles on part of Direct / Email first and track the bundle take-up rate and Direct / Email member AOV against members who don't see the offer</li>
+    </ul>
+    <h4>Convert repeat non-loyalty customers into loyalty members through sign-up incentives at checkout.</h4>
+    <ul>
+      <li><strong>Email channel: turn cable buyers into bigger orders.</strong> Two-thirds of Email non-member orders are $20 cables. Test “join and get a free cable” or bundle the cable with AirPods or monitors.</li>
+      <li><strong>Direct channel: use AirPods to convert non-members.</strong> Non-members in Direct already buy AirPods (27–31% of their orders), so offer membership at AirPods checkout, such as member pricing or bonus points. Also advertise the bundle member-only that gives Direct non-members another reason to join the program.</li>
+      <li><strong>Offer membership to laptop buyers.</strong> MacBook buyers are high-value but rarely join. A membership offer at laptop checkout (extended warranty, accessory discount) could keep them buying.</li>
+    </ul>
 
   </div>
 
   <div class='Region'>
     <h2>Region</h2>
-    <p>All regions experienced a similar pandemic-related sales cycle, but LATAM had the biggest sales decline in 2022 at 56%. Prioritize LATAM for further investigation into the sales decline and the shift toward lower-priced products.</p>
-    <p>Promote monitors in APAC, where monitor order share increased from 20.8% to 24.66%.</p>
-    <p>In NA, use accessories with laptop or monitor bundles to increase revenue per order. </p>
+    <p>All regions experienced a similar pandemic-related sales cycle, but LATAM had the biggest sales decline in 2022 at 56%. <strong>Prioritize LATAM for further investigation</strong> into the sales decline and the shift toward lower-priced products.</p>
+    <p><strong>Promote monitors in APAC,</strong> where monitor order share increased from 20.8% to 24.66%.</p>
+    <p><strong>In NA, use accessories with laptop or monitor bundles</strong> to increase revenue per order. </p>
 
   </div>
 
   <div class='Refund Rate'>
     <h2>Refund Rate</h2>
-    <p>MacBook Air and ThinkPad laptops had the highest refund rate, so investigate the reasons for laptop returns (product defects, shipping damage, and mismatches between product descriptions and customer expectations). </p>
-    <p>Work with the data engineering team to investigate missing 2022 refund records.</p>
+    <p>MacBook Air and ThinkPad laptops had the highest refund rate, so review the reasons for laptop returns (product defects, shipping damage, and mismatches between product descriptions and customer expectations), starting in North America - the largest laptop market. </p>
+    <p>Work with the data engineering team to investigate missing 2022 refund records and verify the refund timestamps before reporting any refund trend over time.</p>
 
 <div>
   <h2 align='center'> Dataset Structure and ERD (Entity Relationship Diagram) </h2>
