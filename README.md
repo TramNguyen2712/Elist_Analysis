@@ -15,17 +15,18 @@
     <li><strong>Loyalty Program Performance</strong> - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention. </li>
   </ul>
     
-  <h2> Summary </h2>
-  <p>Elist's sales nearly tripled in 2020 as COVID-19 pushed online shopping online, peaked at $1.25M in December 2020, then declined through 2021 and 2022. However, that was still 28% above 2019.</p>
+  <h2> Executive Summary </h2>
+  <p>Elist's sales nearly tripled in 2020 as COVID-19 pushed online shopping online, peaked at $1.25M in December 2020, then declined through 2021 and 2022. Sales in 2022 ($4.96M) were still 28% above 2019, but that gain came entirely from more orders, since AOV is back to $230.</p>
   <p><strong>Key Insights:</strong></p>
   <ul>
     <li><strong>Sales:</strong> 2020 growth came from both more orders (+102%) and AOV (+31%). Since then, AOV returned to its 2019 level, and order volume fell 38% in 2022.</li>
-    <li><strong>Seasonality:</strong> December and September were the strongest months. October and February were the weakest every year. Monthly sales peaked in December 2020 and stepped down in early 2021, early 2022, and again in October 2022 ($0.18M, the low of the period).</li>
-    <li><strong>Product:</strong> The 27-inch gaming monitor, MacBook Air, and AirPods drive about 84% of sales. The monitor alone grew to about half of sales by late 2022.</li>
-    <li><strong>Region:</strong> North America is about half of sales and held up best in 2022. APAC grew the most since 2019, while LATAM tended to shift toward low-price accessories.</li>
-    <li><strong>Loyalty:</strong> Loyalty members overtook non-members in early 2021 and now make up 55% of sales, spending $31 more per order ($245 vs $214).</li>
-    <li><strong>Refunds:</strong> Laptops are refunded most often (about 1 in 6 orders in 2019-2020), while AirPods and monitors drove refund amounts. The refund data in 2022 was missing.</li>
+    <li><strong>Seasonality:</strong> Sales peaked in September, dipped in <strong>October</strong>, and recovered in November–December in all four years. Monthly sales peaked in December 2020 and stepped down in early 2021, early 2022, and again in October 2022 ($0.18M, the lowest of the period).</li>
+    <li><strong>Product:</strong> The 27-inch gaming monitor, MacBook Air, and AirPods drive about <strong>84% of sales</strong>. The monitor alone grew to about half of sales by late 2022.</li>
+    <li><strong>Region:</strong> North America is about <strong>half of sales</strong> and held up best in 2022. APAC grew the most since 2019, while LATAM tended to shift toward low-price accessories.</li>
+    <li><strong>Loyalty:</strong> Loyalty members overtook non-members in early 2021 and now make up <strong>55% of sales</strong>, spending <strong>$31 more per order</strong> ($245 vs $214).</li>
+    <li><strong>Refunds:</strong> Laptops are refunded most often (about 1 in 6 orders in 2019-2020), while AirPods and monitors drove refund amounts. Refund dates appear shifted by about 2 years, so refund trends after 2020 are unreliable.</li>
   </ul>
+  <p><strong>Recommendations:</strong> grow loyalty program through member-only bundles in Direct and Email channels, convert laptop and cable buyers into members, use bundles to lift AOV above $230, plan October promotions, review laptop return reasons starting in North America, and fix the refund data before reporting refund KPIs</p>
 </div>
 
 <!-- <div class='Summary'>
@@ -42,32 +43,32 @@
     <h2>Sales Trends</h2>
     <div align='center'> <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/c673476e-d1d1-4611-88f6-f7582044a3b3" /> </div>
     <p>   </p>
-    <p><strong>In 2020,</strong> all metrics - total sales, AOV, and order count surged. Sales grew 163% to $10.16M, AOV rose 31% to $300, and order count doubled +101%. More customers were buying and spending more per order due to pandemic-driven online buying.</p>
-    <p><strong>In 2021,</strong> order volume kept growing 6% to a peak of 35.9K while sales dropped 10% to $9.13M and AOV fell 15% to $255. Customers bought fewer high-price products and more low-price ones. </p>
-    <p><strong>2019 vs 2022:</strong> Sales in 2022 were 28% above 2019, and orders were 33% above, while AOV was unchanged. That raised open questions: Was 2020 a temporary spike, and was the business returning to normal when stores reopened in 2022?</p>
+    <p><strong>In 2020, everything (total sales, AOV, and order count) surged.</strong> Sales grew 163% to $10.16M, AOV rose 31% to $300, and order count doubled (+101%). More customers were buying and spending more per order due to pandemic-driven online shopping</p>
+    <p><strong>In 2021, orders kept growing, but baskets got smaller</strong>. Orders rose 6% to a peak of 35.9K while sales dropped 10% to $9.13M and AOV fell 15% to $255. Customers bought fewer high-price products and more low-price ones. </p>
+    <p><strong>2022 vs 2019:</strong> Sales in 2022 were 28% above 2019, and orders were 33% above, while AOV was unchanged. That raised open questions: Was 2020 a temporary spike, and was the business returning to normal when stores reopened in 2022?</p>
     <p>   </p>
     <div align='center'>
     <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
     </div>
   </div>
 
-  <div class='Growth Rate'>
+  <div class='Seasonality'>
     <h2>Seasonality</h2>
     <div align='center'>
       <img width="85%" height="732" alt="Monthly sales, 2019–2022, with peak, trough and decline points marked" src="https://github.com/user-attachments/assets/2f0b3f54-c88f-4688-b0af-717d66417a82" />
     </div>
     <p>   </p>
-    <p><strong>Sales peaked in December 2020 at $1.25M.</strong> This is where the decline begins: sales fell to about $0.7M by February 2021 and stayed at roughly $0.6–0.9M through 2021.</p>
-    <p><strong>A second step-down came in early 2022.</strong> Sales fell from about $0.88M in December 2021 to under $0.5M by February 2022, then held at about $0.4–0.5M.</p>
-    <p><strong>October 2022 was the low point of the period at $0.18M</strong>, before a holiday rebound in November–December 2022.</p>     
+    <p><strong>Sales peaked in December 2020 at $1.25M, and the decline started right after.</strong> Sales fell to about $0.7M by February 2021 and stayed at roughly $0.6–0.9M through 2021.</p>
+    <p><strong>A second step-down came in early 2022.</strong> Sales fell from about $0.88M in December 2021 to under $0.5M by February 2022, then held at about $0.35–0.5M.</p>
+    <p><strong>October 2022 was the lowest point of the period at $0.18M</strong>, followed by a partial holiday rebound in November–December 2022.</p>     
     <div align='center'>
       <img width="85%" height="727" alt=" Sales by calendar month (Jan–Dec), one line or bar group per year, with October and December highlighted" src="https://github.com/user-attachments/assets/f5bf4938-fd6b-45bb-9851-ae72088cd130" />
     </div>
     <p>    </p>
-    <p><strong>October falls below September, and November-December (holiday season) always recover. The pattern repeated in all four years.</strong> Check whether any promotions or campaigns ended in September and pulled demand forward, or whether customers held off until Black Friday. </p>
-    <p><strong>October 2022 was extreme.</strong> It made up only 3.6% of 2022's sales, about half its usual share of 7-8%. 2022 also never recovered its usual holiday level (December was 5.3% vs 10-11% in 2019-2020).</p>
-    <p><strong>December was the best month in 2019 and 2020</strong>, while in 2021 and 2022 January was the strongest month. </p>
-    <p><strong>The February dip is not consistent.</strong> February was weak in 2019 and 2020, but close to average in 2021–2022. On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so October is the weakest month.</p>
+    <p><strong>October fell below September in all four years, and November-December (holiday season) always recovered.</strong> This suggests a September promotion or campaign pulled demand forward or that customers held off until Black Friday.</p>
+    <p><strong>October 2022 was extreme.</strong> It made up only 3.6% of 2022's sales, about half its usual share of 7-8%. 2022 also didn't reach its usual holiday level (December 2022 was 5.3% vs 10-11% in 2019-2020).</p>
+    <p><strong>December was the best month in 2019 and 2020</strong>, while January was the strongest month in 2021 and 2022. Sales declined throughout those years, so the December holiday boost wasn't enough to make up for the drop from January.</p>
+    <p><strong>The February dip was not consistent.</strong> February was weak in 2019 and 2020, but close to average in 2021–2022. On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so <strong>October was the main seasonal weak spot.</strong></p>
 
   </div>
 
@@ -77,15 +78,17 @@
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/040053f1-ec5b-473b-a92a-f9f832d14638" />
     </div>
     <p>  </p>
-    <p><strong>Three main products drove about 90% of revenue:</strong> the 27-inch gaming monitor ($9.8 million), the MacBook Air ($7.7 million), and Apple AirPods ($7.7 million). ThinkPad laptops accounted for most of the rest. </p>
-    <p><strong>Apple's iPhone, Bose headphones, Samsung webcams, and charging cables</strong> contributed only about 10%. The Bose headphones had the lowest revenue at around $3,000 and even had no revenue in some months.</p>
-    <p><strong>Monitor revenue share increased</strong> from about 30% in 2020 to about 50% in December 2022. The proportion of MacBook Air revenue increased from about 15% to about 30% in 2020 before declining again, matching the fluctuations in AOV.</p>
+    <p><strong>Three main products drove about 84% of revenue:</strong> the 27-inch gaming monitor ($9.8 million), the MacBook Air ($7.7 million), and Apple AirPods ($7.7 million). ThinkPad laptops accounted for most of the rest. </p>
+    <p><strong>Apple's iPhone, Bose headphones, Samsung webcams, and charging cables</strong> are a thin slice of sales. Bose had the lowest revenue, about $3k in total, with no sales at all in some months.</p>
+    <p><strong>Monitor revenue share increased</strong> from about 30% in 2020 to about 50% in December 2022, partly because other products shrank</p>
+    <p><strong>Macbook explained the AOV swing.</strong> Its revenue share increased from about 15% to about 30% in 2020 and then declined again, matching the fluctuations in AOV.</p>
     <p>  </p>
     <div align='center'>
       <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/2b8e59ac-57c4-49e1-9629-32771956b498" />
     </div>
     <p>  </p>
-    <p><strong>AirPods ($160) and charging cables ($20)</strong> accounted for most orders, but revenue per order was very low. MacBook Airs and ThinkPads accounted for a small portion of orders but contributed significantly to revenue. Monitors combined both elements, accounting for approximately 20% of orders and being the largest revenue-generating product. Its order share increased to around 29% by the end of 2022. </p>
+    <p><strong>Volume products and revenue products are different.</strong> AirPods ($160) and charging cables ($20) accounted for most orders, but revenue per order was very low. MacBook Airs and ThinkPads accounted for a small portion of orders but contributed significantly to revenue.</p> 
+    <p><strong>Monitors combined both elements,</strong> accounting for about 20% of orders and being the largest revenue product. Its order share increased to around 29% by the end of 2022. </p>
     <p><strong>Samsung webcams</strong>, launched in 2020, increased to around 10% of orders in 2021-2022, while Apple's iPhones and Bose headphones had the lowest order and sales share in any year.</p>
 </p>
     <div align='center'>
