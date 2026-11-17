@@ -1,249 +1,276 @@
-<h1 align='center', front_size=250px>ELIST TECH</h1>
-<h2 align='center'>Ecommerce Performance Report 2019-2022</h2>  
-
-<div class='Overview'>
-  <h1 align='center'>Overview</h1>
-  <p>Founded in 2018, <strong>Elist is an e-commerce company that sells popular electronics products</strong> and has since expanded to a global customer base. Like most e-commerce companies, Elist sells products through its website as well as its mobile app. They use a variety of marketing channels to reach customers, including Email campaigns, SEO, and affiliate links. Over the last few years, their most popular items have been Apple, Samsung, and Lenovo products.</p>
-  <p>This report analyzes Elist's sales performance from 2019 to 2022 to identify key trends, assess business growth, and understand changes in customer purchasing behavior. By examining sales volume, average order value (AOV), return rates, and loyalty program effectiveness, the report aims to identify opportunities to increase revenue, improve customer retention, and minimize potential losses from returns. These findings will help Elist make data-driven decisions regarding marketing strategies, product performance, and future business growth.</p>
-  
-  <h2> North Star Metrics </h2>
-  <ul>
-    <li><strong>Sales Trends</strong> - Focusing on key metrics like total sales, number of orders placed, and average order value (AOV) by region, product, and brand. </li>
-    <li><strong>Growth Rate</strong> - Analyzing growth rates by different dimensions, including sales and AOV.</li>
-    <li><strong>Product Performance</strong> - Analyzing different product categories, market impact, and refund rates to inform strategic product decisions.</li>
-    <li><strong>Region</strong> - Evaluating regional demand and product performance within regions to identify areas for improvement. </li>
-    <li><strong>Loyalty Program Performance</strong> - Evaluating the effectiveness of the company's loyalty program and providing recommendations to maximize customer engagement and retention. </li>
-  </ul>
-    
-  <h2> Executive Summary </h2>
-  <p>Elist's sales nearly tripled in 2020 as COVID-19 pushed online shopping online, peaked at $1.25M in December 2020, then declined through 2021 and 2022. Sales in 2022 ($4.96M) were still 28% above 2019, but that gain came entirely from more orders, since AOV is back to $230.</p>
-  <p><strong>Key Insights:</strong></p>
-  <ul>
-    <li><strong>Sales:</strong> 2020 growth came from both more orders (+102%) and AOV (+31%). Since then, AOV returned to its 2019 level, and order volume fell 38% in 2022.</li>
-    <li><strong>Seasonality:</strong> Sales peaked in September, dipped in <strong>October</strong>, and recovered in November–December in all four years. Monthly sales peaked in December 2020 and stepped down in early 2021, early 2022, and again in October 2022 ($0.18M, the lowest of the period).</li>
-    <li><strong>Product:</strong> The 27-inch gaming monitor, MacBook Air, and AirPods drive about <strong>84% of sales</strong>. The monitor alone grew to about half of sales by late 2022.</li>
-    <li><strong>Region:</strong> North America is about <strong>half of sales</strong> and held up best in 2022. APAC grew the most since 2019, while LATAM tended to shift toward low-price accessories.</li>
-    <li><strong>Loyalty:</strong> Loyalty members overtook non-members in early 2021 and now make up <strong>55% of sales</strong>, spending <strong>$31 more per order</strong> ($245 vs $214).</li>
-    <li><strong>Refunds:</strong> Laptops are refunded most often (about 1 in 6 orders in 2019-2020), while AirPods and monitors drove refund amounts. Refund dates appear shifted by about 2 years, so refund trends after 2020 are unreliable.</li>
-  </ul>
-  <p><strong>Recommendations:</strong> grow loyalty program through member-only bundles in Direct and Email channels, convert laptop and cable buyers into members, use bundles to lift AOV above $230, plan October promotions, review laptop return reasons starting in North America, and fix the refund data before reporting refund KPIs</p>
-</div>
-
-<!-- <div class='Summary'>
-  <h1 align='center'>Summary</h1>
-  <img width="975" height="484" alt="image" src="https://github.com/user-attachments/assets/6b6434a8-db85-4f61-93a4-de2a4ec2bd65" />
-  <p>Monthly sales at about $250-370k through 2019 climbed through 2020 to a peak of $1.25M in December 2020 and then dropped during 2021-2022 to the lowest amount of $0.18M in October 2022. </p>
-
-</div> -->
-
-<div class='Insight'>
-  <h1 align='center'>Deep-Dive Insight</h1>
-
-  <div class='Sales Trends'>
-    <h2>Sales Trends</h2>
-    <div align='center'> <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/c673476e-d1d1-4611-88f6-f7582044a3b3" /> </div>
-    <p>   </p>
-    <p><strong>In 2020, everything (total sales, AOV, and order count) surged.</strong> Sales grew 163% to $10.16M, AOV rose 31% to $300, and order count doubled (+101%). More customers were buying and spending more per order due to pandemic-driven online shopping</p>
-    <p><strong>In 2021, orders kept growing, but baskets got smaller</strong>. Orders rose 6% to a peak of 35.9K while sales dropped 10% to $9.13M and AOV fell 15% to $255. Customers bought fewer high-price products and more low-price ones. </p>
-    <p><strong>2022 vs 2019:</strong> Sales in 2022 were 28% above 2019, and orders were 33% above, while AOV was unchanged. That raised open questions: Was 2020 a temporary spike, and was the business returning to normal when stores reopened in 2022?</p>
-    <p>   </p>
-    <div align='center'>
-    <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" /> <img width="48%" height="305" alt="image" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
-    </div>
-  </div>
-
-  <div class='Seasonality'>
-    <h2>Seasonality</h2>
-    <div align='center'>
-      <img width="85%" height="732" alt="Monthly sales, 2019–2022, with peak, trough and decline points marked" src="https://github.com/user-attachments/assets/2f0b3f54-c88f-4688-b0af-717d66417a82" />
-    </div>
-    <p>   </p>
-    <p><strong>Sales peaked in December 2020 at $1.25M, and the decline started right after.</strong> Sales fell to about $0.7M by February 2021 and stayed at roughly $0.6–0.9M through 2021.</p>
-    <p><strong>A second step-down came in early 2022.</strong> Sales fell from about $0.88M in December 2021 to under $0.5M by February 2022, then held at about $0.35–0.5M.</p>
-    <p><strong>October 2022 was the lowest point of the period at $0.18M</strong>, followed by a partial holiday rebound in November–December 2022.</p>     
-    <div align='center'>
-      <img width="85%" height="727" alt=" Sales by calendar month (Jan–Dec), one line or bar group per year, with October and December highlighted" src="https://github.com/user-attachments/assets/f5bf4938-fd6b-45bb-9851-ae72088cd130" />
-    </div>
-    <p>    </p>
-    <p><strong>October fell below September in all four years, and November-December (holiday season) always recovered.</strong> This suggests a September promotion or campaign pulled demand forward or that customers held off until Black Friday.</p>
-    <p><strong>October 2022 was extreme.</strong> It made up only 3.6% of 2022's sales, about half its usual share of 7-8%. 2022 also didn't reach its usual holiday level (December 2022 was 5.3% vs 10-11% in 2019-2020).</p>
-    <p><strong>December was the best month in 2019 and 2020</strong>, while January was the strongest month in 2021 and 2022. Sales declined throughout those years, so the December holiday boost wasn't enough to make up for the drop from January.</p>
-    <p><strong>The February dip was not consistent.</strong> February was weak in 2019 and 2020, but close to average in 2021–2022. On a per-day sales basis, February (~$67K/day) beat October (~$64k/day), so <strong>October was the main seasonal weak spot.</strong></p>
-
-  </div>
-
-  <div class='Product Performance'>
-    <h2>Product Performance</h2>
-    <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/040053f1-ec5b-473b-a92a-f9f832d14638" />
-    </div>
-    <p>  </p>
-    <p><strong>Three main products drove about 84% of revenue:</strong> the 27-inch gaming monitor ($9.8 million), the MacBook Air ($7.7 million), and Apple AirPods ($7.7 million). ThinkPad laptops accounted for most of the rest. </p>
-    <p><strong>Apple's iPhone, Bose headphones, Samsung webcams, and charging cables</strong> are a thin slice of sales. Bose had the lowest revenue, about $3k in total, with no sales at all in some months.</p>
-    <p><strong>Monitor revenue share increased</strong> from about 30% in 2020 to about 50% in December 2022, partly because other products shrank</p>
-    <p><strong>Macbook explained the AOV swing.</strong> Its revenue share increased from about 15% to about 30% in 2020 and then declined again, matching the fluctuations in AOV.</p>
-    <p>  </p>
-    <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/2b8e59ac-57c4-49e1-9629-32771956b498" />
-    </div>
-    <p>  </p>
-    <p><strong>Volume products and revenue products are different.</strong> AirPods ($160) and charging cables ($20) accounted for most orders, but revenue per order was very low. MacBook Airs and ThinkPads accounted for a small portion of orders but contributed significantly to revenue.</p> 
-    <p><strong>Monitors combined both elements,</strong> accounting for about 20% of orders and being the largest revenue product. Its order share increased to around 29% by the end of 2022. </p>
-    <p><strong>Samsung webcams</strong>, launched in 2020, increased to around 10% of orders in 2021-2022, while Apple's iPhones and Bose headphones had the lowest order and sales share in any year.</p>
+<h1 align="center">Elist Tech: E-commerce Performance Analysis, 2019–2022</h1>
+ 
+<p align="center">
+  <b>Analyst:</b> Tram Nguyen &nbsp;|&nbsp; <b>Tools:</b> Excel (cleaning, pivot tables), Tableau (visualization)
 </p>
-    <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/9675d46b-98b8-44d1-9171-2fee2873040c" />
-    </div>
-    <p>   </p>
-    <p><strong>Headphones</strong> remained the largest contributor to sales but saw a slight decline in 2022. Their order share decreased from 46-49% (2019-2020) to 41-43% (2021-2022).</p>
-    <p><strong>Accessories' order share </strong> increased from 21% to a peak of 35% in Q2 2022, then fell back to 27% by the end of 2022.</p>
-    <p><strong>Monitor's share </strong> remained around 21-22% every year but surged to 26% by the end of 2022, the highest level for this period.</p>
-    <p><strong>Laptops</strong> accounted for a small fraction of total orders (4-9%), but with order values exceeding $1,000, they had a significant impact on revenue. This share doubled in 2020 (to 8-9%) and then fell back to around 5%, returning to 2019 levels.</p>
-  </div>
-  
-  <div class='Region'>
-    <h2>Region</h2>
-    <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/e770af63-b96b-4737-86cd-5f104d19f71a" />
-    </div>
-    <p>  </p>
-    <p><strong>The COVID cycle was global.</strong> Every region roughly increased in 2020 and fell in 2022, so it was a market-wide effect, not a regional problem.</p>
-    <p><strong>The 2021 dip came mostly from NA.</strong> Total sales fell about $1 million, and NA accounted for about $0.8M of it, while other regions were nearly flat (-3 to -6%).</p>
-    <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/b081bf32-a628-4765-a979-38b961789038" />
-    </div>
-    <p>  </p>
-    <p><strong>APAC is shifting toward monitor products.</strong> Its monitor share rose every year, from 20.8% to 24.66%, the highest of any region. </p>
-    <p><strong>NA drives the global shift toward accessories.</strong> NA accessories share rose from 21% (2020) to 33% (2022) of orders, while headphones fell from 48% to 41%.</p>
-    <p><strong>LATAM moved most toward cheap products.</strong> Accessories went from about 28% to 50% of orders, while headphones fell from 42% to 30%, monitors from 20% to 16%, and laptops to about 3%. LATAM saw more low-price orders and fewer high-value ones, which drove the steepest drop in 2022 (-56%).</p>
+<!-- TODO: add your links on the next line, then delete this comment
+<p align="center"><a href="TABLEAU_PUBLIC_URL">Tableau dashboard</a> &nbsp;|&nbsp; <a href="WORKBOOK_URL">Excel workbook</a> &nbsp;|&nbsp; <a href="LINKEDIN_URL">LinkedIn</a></p>
+-->
+> **In one line:** Elist's sales nearly tripled during COVID and then fell back. The only lasting growth came from loyalty members, and that advantage was fading by late 2022. I recommend member-only bundles, an October campaign, and a laptop returns review, and I flag a refund-date error that makes refund trends unreliable.
+ 
+## Contents
+- [Project Background](#project-background)
+- [Executive Summary](#executive-summary)
+- [Deep-Dive Insights](#deep-dive-insights): [Sales](#sales-trends) · [Seasonality](#seasonality) · [Product](#product-performance) · [Region](#region) · [Loyalty](#loyalty-program) · [Refunds](#refunds)
+- [Recommendations](#recommendations)
+- [Data Quality & Limitations](#data-quality--limitations)
+- [Dataset Structure and ERD](#dataset-structure-and-erd)
 
-    
-  </div>
-  
-  <div class='Loyalty Program'>
-    <h2>Loyalty Program</h2>
-    <div align='center'>
-      <h3>Sales</h3>
-      <img width="80%" height="727" alt="Screenshot 2026-10-30 161945" src="https://github.com/user-attachments/assets/aef01d95-11d1-48ee-9833-c54982b5b9d9" />
-    </div>
-    <div align='center'>
-      <h3>Order Volume</h3>
-      <img width="80%" height="737" alt="image" src="https://github.com/user-attachments/assets/58cbee54-02a6-4e04-86a8-b93274b40f7a" />
-    </div>
-    <div align='center'>
-      <h3>AOV</h3>
-      <img width="80%" height="726" alt="Screenshot 2026-10-30 210808" src="https://github.com/user-attachments/assets/96349d6f-8658-4757-998c-63f69cb7ea75" />
-    </div>
-    <p>  </p>
-    <p><strong>Loyalty members overtook non-loyalty members in orders first in December 2020, then in sales three months later (March 2021).</strong> Loyalty AOV remained lower until May 2021, so members beat non-members in sales by ordering more.</p>
-    <p><strong>Members led for about 18 months.</strong> From spring 2021 to August 2022, they made up about 55-63% of sales and spent more per order.</p>
-    <p><strong>Both groups' orders fell from mid-2021, but members fell faster in late 2022.</strong> Member orders dropped from about 1,650 a month in the early-2021 peak to about 250 in December 2022. Non-members ended at about 470. From September 2022, non-members led again in orders, sales, and AOV.</p>
-    <p> </p>
-    <div align='center' width='100%'>
-      <h3>Loyalty's order share by Marketing Channel</h3>
-      <img width="70%" height="742" alt="image" src="https://github.com/user-attachments/assets/46bb4df7-0645-43ee-a368-9cbf64a77298" />
-      <img width="70%" height="737" alt="image" src="https://github.com/user-attachments/assets/198bfe56-517c-4e84-b9dc-94e0f33ac2a3" />     
-    </div>
-    <p><strong>Email and Social Media customers joined the loyalty program first.</strong> Both passed 50% loyalty share in early 2020: Social Media Q1 2020 (56%), Email in Q2 2020 (63%). Email peaked at 73% in Q4 2020. These channels likely reach customers who already know the brand</p>
-    <p><strong>Direct customers joined more slowly</strong> (23% in Q1 2020 -> 40% in Q4 2020 -> 53% in Q1 2021). But Direct made up about 62-75% of loyalty orders, so members only became the majority overall once Direct passed 50%. That matched the overall crossover (December 2020 for orders and March 2021 for sales).</p>
-    <p><strong>Something happended in Q1 2021.</strong> Almost every channel jumped that quarter: Direct 40% -> 53%, Affiliate 14% -> 33%, Social Media 49% -> 69%. Check whether there was a loyalty promotion or a sign-up change during that period.</p>
-    <p><strong>Affiliate customers rarely join.</strong> Their loyalty share never went above 36%. Social Media and Affiliate are tiny for loyalty, each about 1–4% of loyalty orders./p>
-    <p><strong>The 2022 decline hit every channel and Direct the hardest.</strong> Direct fell from 55% to 34% between Q2 and Q4 2022, and Email from 57% to 48%.</p>
-    <div align='center'>
-      <h3>What Direct and Email customers buy</h3>
-      <img width="80%" height="757" alt="image" src="https://github.com/user-attachments/assets/b5d1a23a-e90b-4276-aba3-52bf624ea850" />
-    </div>
-    <p></p>
-    <p><strong>In Direct, members are AirPods buyers.</strong> AirPods made up about 62% of Direct member orders, about twice the share among Direct non-members (27-31%). AirPods is the main product that brings Direct customers into the program</p>
-    <p><strong>Email members buy the highest-value mix.</strong> Monitors are 29.48% of Email member orders, the highest monitor share of any group. Webcams add another 21% and Headphones 35%.</p>
-    <p><strong>Non-members mostly buy the charging cable.</strong> The charging cable made up 34-36% of Direct non-member orders and 65-67% of Email non-member orders, while members rarely buy it (about 1–2% in Direct, 12–14% in Email). Email reaches many non-members, but mostly for very low-value purchases.</p>
-    <p><strong>Laptop buyers don't join the program.</strong> MacBook Air is 4–7% of Direct non-member orders but only about 1–2% of member orders. Laptop buyers are the highest-value customers, but they mostly stay outside the program. This ties back to the 2020 non-member AOV spike. </p>
-    <p><strong>Webcams are a member product.</strong> They made up 10–21% of member orders in both channels, compared with 4–10% for non-members.</p>
+## Project Background
+ 
+Founded in 2018, **Elist is an e-commerce company that sells popular electronics** (mainly Apple, Samsung, and Lenovo) to a global customer base through its website and mobile app. Customers arrive directly or through email, social media, and affiliate links.
+ 
+I analyzed 108K order records from 2019 to 2022 to answer three questions: how the business changed through and after COVID-19, which customers and products drive growth, and where Elist can grow revenue, retain customers, and reduce refund losses.
+ 
+**North star metrics**
+ 
+| Metric | 2019 | 2020 | 2021 | 2022 | 2022 vs 2019 |
+|---|---:|---:|---:|---:|---:|
+| **Total sales** | $3.87M | $10.16M | $9.13M | $4.96M | +28% |
+| **Order count** | 14.3K | 28.9K | 30.7K | 19.0K | +33% |
+| **Average order value (AOV)** | $230 | $300 | $255 | $230 | 0% |
+| **Loyalty share of sales** | 11% | 29% | 53% | 55% | +44 pts |
+| **Refund rate** | 5.7% | 9.2% | 3.6%** | No data** | – |
+ 
+<sub>*Refund data for 2021–2022 is incomplete. See [Data Quality & Limitations](#data-quality--limitations).</sub>
+ 
+## Executive Summary
+ 
+Elist's sales nearly tripled in 2020 as COVID-19 pushed shopping online, peaking at **$1.25M in December 2020**, then declined in steps through 2021 and 2022. Sales in 2022 ($4.96M) were still 28% above 2019, but that lasting gain came entirely from **more orders**, since AOV is back to $230, and entirely from **loyalty members**.
+ 
+<div align="center">
+  <img width="85%" alt=" Monthly sales, 2019–2022, with the December 2020 peak, step-downs and October 2022 low marked" src="https://github.com/user-attachments/assets/2f0b3f54-c88f-4688-b0af-717d66417a82" />
+</div>
+<p> </p>
 
-  </div>
+**Key insights**
 
- <div class='Refunds'>
-    <h2>Refunds</h2>
-    <div align='center'>
-      <img width="80%" height="500" alt="image" src="https://github.com/user-attachments/assets/23ba95a4-157d-449d-b2ee-464b4537ce66" />
-    </div>
-    <p>   </p>
-    <p>The refund rate increased from 5.7% to 9.2%, and the number of returned items more than tripled (from 965 to 3,120) in 2020.</p>
-    <p><strong>AirPods and monitors drove refund volume.</strong> AirPods had 1,529 refunds, and monitors had 820 refunds in 2020. However, <strong>laptops</strong> had the highest refund rates: MacBook Air (18.3% in 2019, 16.9% in 2020) and ThinkPad (17.1%, 17%).</p>
-    <p><strong>Accessories were rarely returned</strong>. Charging cables had low refund rates (2.36% in 2019 and 2.59% in 2020). Bose had a 0% rate, but due to the low sales volume, this number is not significant.</p>
-    <p><strong>All products recorded no refunds in 2022,</strong> which is almost certainly due to a lack of data or a change in the refund policy.</p>
-</p>
-    <h4>Time to refund</h4>
-    <div align='center'>
-      <img width="80%" height="730" alt="image" src="https://github.com/user-attachments/assets/8f9b5c61-e16a-4912-82bf-837ed40fe95e" />
-    </div>
-    <p><strong>Refund dates appear shifted by about 2 years.</strong> In every purchase year (2019-2021), refunds are recorded 600-800 days after delivery, with none of them earlier. The pattern is the same before and during COVID, so this might be an error in the refund timestamp. It likely explains why 2022 shows no refund (refunds for 2022 orders might fall in 2024) and why refund rates appear to drop in 2021 (missing data). Ask the data engineering team to verify the refund timestamp field before refund KPIs are reported.</p>
-    <p> </p>
-    <h4>Deep dive into laptop refunds - highest refund rates</h4>
-    <div align='center'>
-      <img width="80%" height="807" alt="image" src="https://github.com/user-attachments/assets/12dafeb6-a3ae-45f7-8fb5-c8000403f7dd" />
-    </div>
-    <p>Laptop refunds are a product issue, not in where they are sold. MacBook Air and ThinkPad Laptops are refunded at about 10-13% in every channel and on the website, where almost all laptops are sold.</p>
-    <p>North America had the highest laptop refund rate (MacBook ~15%, ThinkPad 17%) compared with about 9-13% in EMEA and LATAM. NA is also the biggest laptop market, so its returns cost the most</p>
-    <p>In the loyalty program, MacBook members show a 0% refund rate on 134 orders, which looks unusual. Should check with the data engineering team or stakeholder</p>
-   
-  </div>  
+- **Sales:** 2020 growth came from both more orders (+102%) and higher AOV (+31%). Since then, AOV has returned to its 2019 level, and orders fell 38% in 2022.
+- **Seasonality:** Sales dip below September every **October** and recover in November–December, in all four years. October 2022 was the low of the period at $0.18M.
+- **Product:** The 27-inch gaming monitor, MacBook Air and AirPods drive about **84% of sales**. The monitor alone grew to about half of sales by late 2022.
+- **Region:** North America is about **half of sales** and held up best in 2022. APAC grew the most since 2019, while LATAM shifted most toward low-price accessories.
+- **Loyalty:** Members overtook non-members in early 2021 and made up **55% of 2022 sales**, spending **$31 more per order** ($245 vs $214). Non-member sales are 35% below 2019. However, members fell behind non-members again from September 2022.
+- **Refunds:** Laptops are refunded most often (about 1 in 6 orders in 2019–2020). Refund dates appear shifted by about 2 years, so refund trends after 2020 are unreliable.
+
+**Top 3 recommendations**
+
+1. **Grow the loyalty program through the Direct and Email channels.** Offer member-only bundles built around AirPods and monitors, and offer membership at checkout to AirPods, cable, and laptop buyers. Members spend $31 more per order, so closing that gap on the roughly 9K non-member orders in 2022 would be worth about $0.3M a year (rough estimate).
+2. **Run an October campaign.** October made up only 3.6% of 2022 sales, against its usual 7–8%. Holding the usual share would have added roughly $170–220K (rough estimate).
+3. **Review laptop returns, starting in North America, and fix the refund data** before any refund KPI is reported.
+---
+ 
+## Deep-Dive Insights
+ 
+### Sales Trends
+ 
+<div align="center">
+  <img width="80%" alt="Total sales by year, 2019–2022" src="https://github.com/user-attachments/assets/c673476e-d1d1-4611-88f6-f7582044a3b3" />
 </div>
 
-<div class='Recommendation'>
-  <h1 align='center'>Recommendations</h1>
+- **2020: everything surged.** Sales grew 163% to $10.16M, AOV rose 31% to $300, and orders doubled (+102%). More customers were buying and spending more per order during pandemic-driven online shopping.
+- **2021: orders kept growing, but baskets got smaller.** Orders rose 6% to a peak of 30.7K, while AOV fell 15% to $255, so sales dropped 10% to $9.13M. Customers bought fewer high-price products and more low-price ones.
+- **2022 vs 2019: the business normalized on a larger base.** Sales were 28% above 2019 and orders 33% above, while AOV was unchanged. The [Loyalty Program](#loyalty-program) section shows where this lasting gain came from: loyalty members grew, while non-member sales fell below 2019.
 
-  <div class='Sales Trends'>
-    <h2>Sales</h2>
-    <p>Sales usually fell sharply in October, with a 55% decline in October 2022. Introduce <strong>October promotions, targeted discounts, or product bundles</strong> to maintain demand between September and the holiday season.</p>
-    <p>November and December were consistently strong months during 2019-2022. <strong>Prepare inventory and marketing campaigns</strong> ahead of November and December to capture peak holiday demand.</p>
-
-  </div>
-
-  <div class='Product Performance'>
-    <h2>Product</h2>
-    <p>With three main products, gaming monitor, MacBook Air, and AirPods, <strong>maintain sufficient inventory</strong>, especially for the monitor, to capture order share gains toward the end of 2022.</p>
-    <p><strong>Bundle lower-priced accessories</strong> such as charging cables with laptops and monitors to increase basket value.</p>
-    <p><strong>Investigate the low sales of Bose Headphones and Apple iPhones</strong> before deciding whether to reduce inventory or discontinue products. </p>
-
-  </div>
-
-  <div class='Loyalty Program'>
-    <h2>Loyalty Program</h2>
-    <h4>Expand loyalty benefits by promotions, reward points, and personalized product recommendations.</h4>
-    <ul>
-      <li><strong>For Email customers: promote monitors and webcams to members.</strong> These are already what Email members buy, so targeted campaigns for them should work well and also lift AOV.</li>
-      <li><strong>For Direct customers: build member-only bundles around AirPods.</strong> AirPods made up 62.5% of Direct member orders. Offer member-only bundles such as AirPods + Webcam. Direct members already buy webcams (12.6% of their orders), so this pairs two products they like and adds about 2.5x more per order. Another bundle option is the AiPods + Monitor offer. Both Direct and Email members already bought monitors heavily (Direct 19.33% and Email 29.48%). A member discount on the monitor for AiPods buyers has the biggest potential effect on AOV. Test member-only bundles on part of Direct / Email first and track the bundle take-up rate and Direct / Email member AOV against members who don't see the offer</li>
-    </ul>
-    <h4>Convert repeat non-loyalty customers into loyalty members through sign-up incentives at checkout.</h4>
-    <ul>
-      <li><strong>Email channel: turn cable buyers into bigger orders.</strong> Two-thirds of Email non-member orders are $20 cables. Test “join and get a free cable” or bundle the cable with AirPods or monitors.</li>
-      <li><strong>Direct channel: use AirPods to convert non-members.</strong> Non-members in Direct already buy AirPods (27–31% of their orders), so offer membership at AirPods checkout, such as member pricing or bonus points. Also advertise the bundle member-only that gives Direct non-members another reason to join the program.</li>
-      <li><strong>Offer membership to laptop buyers.</strong> MacBook buyers are high-value but rarely join. A membership offer at laptop checkout (extended warranty, accessory discount) could keep them buying.</li>
-    </ul>
-
-  </div>
-
-  <div class='Region'>
-    <h2>Region</h2>
-    <p>All regions experienced a similar pandemic-related sales cycle, but LATAM had the biggest sales decline in 2022 at 56%. <strong>Prioritize LATAM for further investigation</strong> into the sales decline and the shift toward lower-priced products.</p>
-    <p><strong>Promote monitors in APAC,</strong> where monitor order share increased from 20.8% to 24.66%.</p>
-    <p><strong>In NA, use accessories with laptop or monitor bundles</strong> to increase revenue per order. </p>
-
-  </div>
-
-  <div class='Refund Rate'>
-    <h2>Refund Rate</h2>
-    <p>MacBook Air and ThinkPad laptops had the highest refund rate, so review the reasons for laptop returns (product defects, shipping damage, and mismatches between product descriptions and customer expectations), starting in North America - the largest laptop market. </p>
-    <p>Work with the data engineering team to investigate missing 2022 refund records and verify the refund timestamps before reporting any refund trend over time.</p>
-
-<div>
-  <h2 align='center'> Dataset Structure and ERD (Entity Relationship Diagram) </h2>
-  <p>The company has a core dataset consisting of orders, order status, customers, products, and geographic information with a total of 108,127 rows.</p>
-  <img width="1875" height="1114" alt="image" src="https://github.com/user-attachments/assets/6e2f221a-909a-4165-9ded-dd4acdec4393" />
+<div align="center">
+  <img width="48%" alt="AOV by year, 2019–2022" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" />
+  <img width="48%" alt="Order count by year, 2019–2022" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
 </div>
 
-  </div>
+### Seasonality
+ 
+The monthly sales chart in the [Executive Summary](#executive-summary) shows three step-downs:
+ 
+- **Sales peaked in December 2020 at $1.25M, and the decline started right after.** Sales fell to about $0.71M by February 2021 and stayed at roughly $0.6–0.9M through 2021.
+- **A second step-down came in early 2022.** Sales fell from about $0.88M in December 2021 to $0.47M in February 2022, then held at about $0.35–0.5M.
+- **October 2022 was the low point of the period at $0.18M,** followed by a partial holiday rebound in November–December 2022.
+
+<div align="center">
+  <img width="85%" alt="Each month's share of the year's sales, one line per year, 2019–2022" src="https://github.com/user-attachments/assets/f5bf4938-fd6b-45bb-9851-ae72088cd130" />
 </div>
 
+- **October falls below September in every year, and November–December (the holiday season) always recover.** This suggests a September promotion pulls demand forward, or customers wait for Black Friday.
+- **October 2022 was extreme.** It made up only 3.6% of 2022's sales, about half its usual share of 7–8%. 2022 also never reached its usual holiday level: December was 5.3% of the year's sales, versus about 12% in 2019–2020.
+- **December was the best month in 2019 and 2020,** but in 2021 and 2022 January was the strongest month. Sales declined throughout those years, so the December holiday boost wasn't enough to make up for the drop since January.
+- **The February dip is not consistent.** February was weak in 2019 and 2020 but close to average in 2021–2022. Per day, February (~$67K/day) also beats October (~$64K/day), so **October is the main seasonal weak spot.**
 
+### Product Performance
+ 
+<div align="center">
+  <img width="80%" alt="Sales share by product, monthly, 2019–2022" src="https://github.com/user-attachments/assets/040053f1-ec5b-473b-a92a-f9f832d14638" />
+</div>
+
+- **Three products drove about 84% of sales:** the 27-inch gaming monitor ($9.8M), MacBook Air ($7.7M) and AirPods ($6.2M). ThinkPad laptops made up most of the rest.
+- **The long tail is very small.** iPhone, Bose headphones, the Samsung webcam and charging cables are a thin slice of sales. Bose had the lowest revenue, about $3K in total, with no sales at all in some months.
+- **Concentration risk is rising.** The monitor's share of sales grew from about 30% in 2020 to about 50% by December 2022, partly because other products shrank.
+- **MacBook Air explains the AOV swing.** Its share of sales jumped from about 15% to about 30% in 2020 and then declined again, matching the rise and fall of AOV.
+
+<div align="center">
+  <img width="80%" alt="Order share by product, monthly, 2019–2022" src="https://github.com/user-attachments/assets/2b8e59ac-57c4-49e1-9629-32771956b498" />
+</div>
+
+- **Volume products and revenue products are different.** AirPods (~$160) and charging cables (~$20) make up most orders but little revenue per order. MacBook Air and ThinkPad are a small share of orders but a large share of revenue.
+- **The monitor is both:** about 20% of orders and the largest revenue product. Its order share rose to about 29% by the end of 2022.
+- **Samsung webcams,** launched in 2020, grew to about 10% of orders in 2021–2022. iPhone and Bose had the lowest order and sales shares in every year.
+
+<div align="center">
+  <img width="80%" alt="Order share by category, quarterly, 2019–2022" src="https://github.com/user-attachments/assets/9675d46b-98b8-44d1-9171-2fee2873040c" />
+</div>
+
+- **Headphones are the largest category by orders but are losing ground.** Their order share fell from 46–49% (2019–2020) to 41–43% (2021–2022).
+- **Accessories grew, then reversed.** Their order share rose from 21% to a peak of 35% in Q2 2022, then fell back to 27% by Q4 2022. Each accessory order is worth little, so this growth pulled AOV down.
+- **Monitors are the steadiest category,** at about 21–22% of orders every year, rising to 26% in Q4 2022, the highest of the period.
+- **Laptops have an outsized effect on revenue.** They are only 4–9% of orders, but each is worth over $1,000. Their share doubled in 2020 (to 8–9%) and then fell back to about 5%.
+### Region
+ 
+<div align="center">
+  <img width="80%" alt="Total sales by region and year, 2019–2022" src="https://github.com/user-attachments/assets/77417bb9-a6b4-4f4b-af97-0cd621971a41" />
+</div>
+
+- **The COVID cycle was global.** Every region rose sharply in 2020 and fell in 2022, so this was a market-wide effect, not a regional problem.
+- **North America is about half the business.** The 2021 dip came mostly from NA: total sales fell about $1.0M, and NA accounted for about $0.8M of it, while other regions were nearly flat (−3% to −6%). In 2022, NA held up best (−40%).
+- **APAC grew the most,** at +48% vs 2019.
+
+<div align="center">
+  <img width="80%" alt="Order share by category within each region, 2019–2022" src="https://github.com/user-attachments/assets/b081bf32-a628-4765-a979-38b961789038" />
+</div>
+
+- **APAC is shifting toward monitors.** Its monitor share rose every year, from 20.8% to 24.7% of orders, the highest of any region.
+- **NA drives the global shift toward accessories.** NA's accessories share rose from 21% (2020) to 33% (2022) of orders, while headphones fell from 48% to 41%.
+- **LATAM moved most toward cheap products.** Accessories went from about 28% to 50% of orders, while headphones fell from 42% to 30%, monitors from 20% to 16%, and laptops to about 3%. This cheaper mix coincided with LATAM's steepest 2022 drop (−56%), though its small sales base makes shares less stable.
+
+### Loyalty Program
+ 
+**The big picture:** loyalty members grew from $0.42M in sales (2019) to $2.72M (2022), while non-member sales fell from $3.45M to $2.24M (−35% vs 2019). **All net growth since 2019 came from loyalty members.** In 2022, members spent **$31 more per order** than non-members ($245 vs $214).
+ 
+<div align="center">
+  <h4>Sales</h4>
+  <img width="80%" alt="Loyalty vs non-loyalty share of sales, monthly, 2019–2022" src="https://github.com/user-attachments/assets/aef01d95-11d1-48ee-9833-c54982b5b9d9" />
+  <h4>Order count</h4>
+  <img width="80%" alt="Loyalty vs non-loyalty order count, monthly, 2019–2022" src="https://github.com/user-attachments/assets/58cbee54-02a6-4e04-86a8-b93274b40f7a" />
+  <h4>AOV</h4>
+  <img width="80%" alt="Loyalty vs non-loyalty AOV, monthly, 2019–2022" src="https://github.com/user-attachments/assets/96349d6f-8658-4757-998c-63f69cb7ea75" />
+</div>
+
+- **Inflection point: members overtook non-members in orders first (December 2020), then in sales three months later (March 2021).** Member AOV was still lower until May 2021, so members needed more orders to match non-members in sales.
+- **Members led for about 18 months.** From spring 2021 to August 2022, they made up about 55–63% of sales and spent more per order.
+- **The 2020 AOV spike came from non-members.** Non-member AOV jumped to about $385 a month in late 2020 ($345 for the year), likely from one-time laptop buyers, while member AOV stayed in a steady $210–270 range.
+- **Both groups' orders fell from mid-2021, but members fell faster in late 2022.** Member orders dropped from about 1,650 a month at the early-2021 peak to about 250 in December 2022. Non-members ended at about 470. From September 2022, non-members led again in orders, sales, and AOV.
+**Why AOV rose for members but fell for non-members:** members shifted toward monitors (17% → 21% of member orders) and webcams, while non-members shifted toward $20 charging cables. Laptop buyers, the highest-value customers who drove non-member AOV in 2020, mostly never joined the program (see [What Direct and Email customers buy](#what-direct-and-email-customers-buy)).
+ 
+#### What drove the inflection: marketing channel
+ 
+<div align="center">
+  <h4>Share of loyalty orders by channel</h4>
+  <img width="70%" alt="Channel mix of loyalty orders by year: Direct 60–75%, Email 21–34%" src="https://github.com/user-attachments/assets/198bfe56-517c-4e84-b9dc-94e0f33ac2a3" />
+  <h4>Loyalty share of each channel's orders</h4>
+  <img width="70%" alt="Loyalty share of orders by marketing channel, quarterly, 2019–2022" src="https://github.com/user-attachments/assets/4d33edfe-83fa-446c-8555-973171fafcb5" />
+
+</div>
+
+- **Direct is where most members buy.** Direct brings in 60–75% of loyalty orders and Email 21–34%. Social Media and Affiliate are each only about 1–4%.
+- **Email and Social Media customers joined first.** Both passed a 50% loyalty share in early 2020 (Social Media in Q1 2020 at 56%, Email in Q2 2020 at 63%), and Email peaked at 73% in Q4 2020. These channels likely reach customers who already know the brand.
+- **Direct customers decided the crossover.** They joined more slowly (23% in Q1 2020 → 40% in Q4 2020 → 53% in Q1 2021). Because Direct is the largest channel, members only became the majority overall once Direct passed 50%, matching the overall crossover (December 2020 for orders, March 2021 for sales).
+- **Something happened in Q1 2021.** Almost every channel jumped that quarter: Direct 40% → 53%, Affiliate 14% → 33%, Social Media 49% → 69%. Check whether there was a loyalty promotion or a sign-up change then.
+- **Affiliate customers rarely join.** Their loyalty share never went above 36%.
+- **The 2022 decline hit every channel, and Direct the hardest.** Direct fell from 55% to 34% between Q2 and Q4 2022, and Email from 57% to 48%.
+
+#### What drove the inflection: region
+ 
+<!-- TODO: add the "Loyalty share of orders by region" chart here -->
+<div align="center">
+  <img width="80%" alt="Loyalty share of orders by region" src="https://github.com/user-attachments/assets/ac2f44e2-4f01-4f96-b67e-5aa6d79ec3d5" />
+</div>
+
+ 
+- **Loyalty grew at the same pace in every region,** from under 5% in early 2019 to about 50–58% by 2021. So the inflection was **company-wide, not regional**, and it showed up mainly through the Direct and Email channels.
+- **NA held up best in late 2022** (still 42% in Q4 2022), while **LATAM fell first and furthest** (54% in Q3 2021 → 26% in Q4 2022).
+
+#### What Direct and Email customers buy
+ 
+<div align="center">
+  <img width="80%" alt="Product mix of Direct and Email orders, loyalty vs non-loyalty, 2021–2022" src="https://github.com/user-attachments/assets/b5d1a23a-e90b-4276-aba3-52bf624ea850" />
+</div>
+
+- **In Direct, members are AirPods buyers.** AirPods make up about 62% of Direct member orders, about twice the share among Direct non-members (27–31%). AirPods are the main product that brings Direct customers into the program.
+- **Email members buy the highest-value mix.** Monitors are about 29% of Email member orders, the highest monitor share of any group, with webcams adding about 21% and headphones about 35%.
+- **Non-members mostly buy the $20 charging cable.** It makes up 34–36% of Direct non-member orders and 65–67% of Email non-member orders, while members rarely buy it (about 1–2% in Direct, 12–14% in Email). Email reaches many non-members, but mostly for very low-value purchases.
+- **Laptop buyers don't join the program.** MacBook Air is 4–7% of Direct non-member orders but only about 1–2% of member orders. These are the highest-value customers, and they explain the 2020 non-member AOV spike.
+- **Webcams are a member product.** They make up 10–21% of member orders in both channels, compared with 4–10% for non-members.
+### Refunds
+ 
+<div align="center">
+  <img width="80%" alt="Refund count and refund rate by product and year, 2019–2022" src="https://github.com/user-attachments/assets/23ba95a4-157d-449d-b2ee-464b4537ce66" />
+</div>
+ 
+- **Refunds spiked in 2020.** The refund rate rose from 5.7% to 9.2%, and the number of refunds more than tripled (965 → 3,120).
+- **AirPods and monitors drove refund volume** (1,529 and 820 refunds in 2020), but **laptops had the highest refund rates:** MacBook Air (18.3% in 2019, 16.9% in 2020) and ThinkPad (17.1%, 17.0%), about 1 in 6 orders.
+- **Accessories were rarely returned.** Charging cables had refund rates of 2.4–2.6% in 2019–2020. Bose shows 0%, but its sales volume is too low for that to be meaningful.
+- **2021 and 2022 refund figures are incomplete.** 2022 shows no refunds at all, and the 2021 drop is likely missing data, not a real improvement (see the time-to-refund analysis below). Compare refund rates only between 2019 and 2020.
+#### Time to refund
+ 
+<div align="center">
+  <img width="80%" alt="Histogram of days from delivery to refund by purchase year, 2019–2021" src="https://github.com/user-attachments/assets/8f9b5c61-e16a-4912-82bf-837ed40fe95e" />
+</div>
+
+- **Refund dates appear shifted by about 2 years.** In every purchase year (2019–2021), refunds are recorded about 680–800 days after delivery, with none earlier. Real refund timing would vary and include early returns, and the pattern is the same before and during COVID, so this points to an error in the refund timestamp rather than customer behavior.
+- **This likely explains the missing refunds.** Refunds for 2022 orders would fall in 2024, after the data ends, and many refunds for 2021 orders would also be missing.
+#### Why laptops are refunded more
+ 
+<div align="center">
+  <img width="80%" alt="MacBook Air and ThinkPad refund rates by region, marketing channel, platform and loyalty status, 2019–2021" src="https://github.com/user-attachments/assets/12dafeb6-a3ae-45f7-8fb5-c8000403f7dd" />
+</div>
+
+- **Laptop refunds are a product issue, not a channel issue.** MacBook Air and ThinkPad are refunded at about 13–15% in every channel with enough orders, and on the website, where almost all laptops are sold.
+- **North America has the highest laptop refund rates** (MacBook ~15%, ThinkPad ~17%), compared with about 9–13% in EMEA and LATAM. NA is also the biggest laptop market, so its returns cost the most.
+---
+ 
+## Recommendations
+ 
+### Sales & Seasonality
+- **Use bundles to lift AOV above $230.** AOV hasn't grown since 2019, so bundles (see Loyalty below) and checkout upsells are the main lever. Track AOV monthly.
+- **Fix October.** It is the weakest month every year and fell 55% in 2022. Run October-specific promotions, and avoid ending September campaigns abruptly so demand holds until the holiday season.
+- **Prepare for November–December** with inventory and marketing campaigns in place ahead of the holiday peak.
+### Product
+- **Keep monitor stock secure, but reduce dependence on it.** The monitor is now about half of sales, so any supply or demand problem would hit revenue hard.
+- **Bundle low-price accessories** such as charging cables and webcams with laptops and monitors to raise basket value.
+- **Review Bose headphones and iPhone** before deciding whether to promote them, reduce inventory or discontinue them.
+### Region
+- **Protect and grow North America,** the largest and most resilient region.
+- **Prioritize LATAM for further investigation** into its 56% sales decline in 2022 and its shift toward low-price products, and test monitor and headphone bundles there.
+- **Promote monitors in APAC,** where monitor order share is rising (20.8% → 24.7%), and repeat the approach in other regions.
+- **In NA, bundle accessories with laptops or monitors** to raise revenue per order.
+### Loyalty Program
+**Grow member spending with member-only bundles**
+- **Email members: promote monitors and webcams.** These are already what Email members buy, so targeted campaigns should work well and lift AOV.
+- **Direct members: build bundles around AirPods**, which make up about 62% of Direct member orders:
+  - **AirPods + webcam:** Direct members already buy webcams (about 13% of their orders), and a webcam adds about $50 per order vs about $20 for a cable.
+  - **AirPods buyers + monitor discount:** members already buy monitors (about 19% of Direct and 29% of Email member orders), so this has the biggest potential effect on AOV.
+- **Test first:** offer bundles to part of Direct and Email members, and compare bundle take-up rate and member AOV with members who don't see the offer.
+**Convert non-members with sign-up incentives at checkout**
+- **Direct: use AirPods to convert non-members.** Direct non-members already buy AirPods (27–31% of their orders), so offer membership at AirPods checkout (member pricing or bonus points), and advertise the member-only bundles.
+- **Email: turn cable buyers into bigger orders.** Two-thirds of Email non-member orders are $20 cables. Test "join and get a free cable", or bundle the cable with AirPods or monitors.
+- **Offer membership to laptop buyers.** MacBook buyers are high-value but rarely join. A membership offer at laptop checkout (extended warranty, accessory discount) could keep them buying.
+- **Investigate the late-2022 decline in member orders**, starting with the Direct channel, where the member share fell most: track repeat-purchase rate and churn, and check whether program benefits changed.
+### Refunds
+- **Review laptop returns** (product defects, shipping damage, mismatches between product descriptions and customer expectations), starting in North America, the largest laptop market.
+- **Fix refund data before reporting refund KPIs.** Ask the data engineering team to verify the refund timestamps and recover the missing 2021–2022 refunds.
+---
+ 
+## Data Quality & Limitations
+ 
+- **Refund dates appear shifted by about 2 years,** so 2022 shows no refunds and 2021 refunds are incomplete. Refund rates by product and region (2019–2020) are still usable; refund trends over time are not.
+- **MacBook Air loyalty orders show a 0% refund rate on 134 orders,** which is unusual compared with about 14% for non-members. Verify with the data engineering team.
+- **AOV and order count use different order definitions.** Order count appears to count distinct orders, while AOV appears to divide sales by rows. For example, $0.42M ÷ 1.60K loyalty orders ≈ $262, not $207.
+- **iPhone data is missing for October–November 2022** (impact about $5–10K).
+- **The "Unknown" marketing channel rises to about 4–5% of loyalty orders in 2022,** which suggests missing channel data.
+- **No cost or margin data,** so the profitability of products, regions and the loyalty program could not be assessed.
+---
+ 
+## Dataset Structure and ERD
+ 
+The core dataset has **108,127 rows** across orders, order status, customers, products and geographic tables.
+ 
+<div align="center">
+  <img width="85%" alt="Entity relationship diagram of the Elist dataset" src="https://github.com/user-attachments/assets/6e2f221a-909a-4165-9ded-dd4acdec4393" />
+</div>
+ 
