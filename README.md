@@ -6,7 +6,7 @@
 <!-- TODO: add your links on the next line, then delete this comment
 <p align="center"><a href="TABLEAU_PUBLIC_URL">Tableau dashboard</a> &nbsp;|&nbsp; <a href="WORKBOOK_URL">Excel workbook</a> &nbsp;|&nbsp; <a href="LINKEDIN_URL">LinkedIn</a></p>
 -->
-> **In one line:** Elist's sales nearly tripled during COVID and then fell back. The only lasting growth came from loyalty members, and that advantage was fading by late 2022. I recommend member-only bundles, an October campaign, and a laptop returns review, and I flag a refund-date error that makes refund trends unreliable.
+Elist's sales nearly tripled during COVID and then fell back. The only lasting growth came from loyalty members, and that advantage was fading by late 2022. I recommend member-only bundles, an October campaign, and a laptop returns review, and I flag a refund-date error that makes refund trends unreliable.
  
 ## Contents
 - [Project Background](#project-background)
@@ -20,7 +20,7 @@
  
 Founded in 2018, **Elist is an e-commerce company that sells popular electronics** (mainly Apple, Samsung, and Lenovo) to a global customer base through its website and mobile app. Customers arrive directly or through email, social media, and affiliate links.
  
-I analyzed 108K order records from 2019 to 2022 to answer three questions: how the business changed through and after COVID-19, which customers and products drive growth, and where Elist can grow revenue, retain customers, and reduce refund losses.
+This report analyzes Elist's sales performance from 2019 to 2022 to identify key trends, assess business growth, and understand changes in customer purchasing behavior. By examining sales volume, average order value (AOV), return rates, and loyalty program effectiveness, the report aims to identify opportunities to increase revenue, improve customer retention, and minimize potential losses from returns. These findings will help Elist make data-driven decisions regarding marketing strategies, product performance, and future business growth.
  
 **North star metrics**
  
@@ -29,7 +29,7 @@ I analyzed 108K order records from 2019 to 2022 to answer three questions: how t
 | **Total sales** | $3.87M | $10.16M | $9.13M | $4.96M | +28% |
 | **Order count** | 14.3K | 28.9K | 30.7K | 19.0K | +33% |
 | **Average order value (AOV)** | $230 | $300 | $255 | $230 | 0% |
-| **Loyalty share of sales** | 11% | 29% | 53% | 55% | +44 pts |
+| **Loyalty share of sales** | 11% | 29% | 53% | 55% | +44% |
 | **Refund rate** | 5.7% | 9.2% | 3.6%** | No data** | – |
  
 <sub>*Refund data for 2021–2022 is incomplete. See [Data Quality & Limitations](#data-quality--limitations).</sub>
@@ -91,12 +91,12 @@ The monthly sales chart in the [Executive Summary](#executive-summary) shows thr
 - **October falls below September in every year, and November–December (the holiday season) always recover.** This suggests a September promotion pulls demand forward, or customers wait for Black Friday.
 - **October 2022 was extreme.** It made up only 3.6% of 2022's sales, about half its usual share of 7–8%. 2022 also never reached its usual holiday level: December was 5.3% of the year's sales, versus about 12% in 2019–2020.
 - **December was the best month in 2019 and 2020,** but in 2021 and 2022 January was the strongest month. Sales declined throughout those years, so the December holiday boost wasn't enough to make up for the drop since January.
-- **The February dip is not consistent.** February was weak in 2019 and 2020 but close to average in 2021–2022. Per day, February (~$67K/day) also beats October (~$64K/day), so **October is the main seasonal weak spot.**
+- **The February dip is not consistent.** February was weak in 2019 and 2020 but close to average in 2021–2022. Per day, February (around $67K/day) also beats October (around $64K/day), so **October is the main seasonal weak spot.**
 
 ### Product Performance
  
 <div align="center">
-  <img width="80%" alt="Sales share by product, monthly, 2019–2022" src="https://github.com/user-attachments/assets/040053f1-ec5b-473b-a92a-f9f832d14638" />
+  <img width="80%" alt="Sales share by product, monthly, 2019–2022" src="https://github.com/user-attachments/assets/833ac49a-858e-4ea2-a1fd-033052e0e361" />
 </div>
 
 - **Three products drove about 84% of sales:** the 27-inch gaming monitor ($9.8M), MacBook Air ($7.7M) and AirPods ($6.2M). ThinkPad laptops made up most of the rest.
@@ -161,13 +161,14 @@ The monthly sales chart in the [Executive Summary](#executive-summary) shows thr
  
 <div align="center">
   <h4>Share of loyalty orders by channel</h4>
-  <img width="70%" alt="Channel mix of loyalty orders by year: Direct 60–75%, Email 21–34%" src="https://github.com/user-attachments/assets/198bfe56-517c-4e84-b9dc-94e0f33ac2a3" />
+  <img width="80%" alt="Channel mix of loyalty orders by year: Direct 62–76%, Email 21–34%" src="https://github.com/user-attachments/assets/a3b0f6b4-9da8-49b4-b79f-a7d54e70bde9" />
+
   <h4>Loyalty share of each channel's orders</h4>
-  <img width="70%" alt="Loyalty share of orders by marketing channel, quarterly, 2019–2022" src="https://github.com/user-attachments/assets/4d33edfe-83fa-446c-8555-973171fafcb5" />
+  <img width="80%" alt="Loyalty share of orders by marketing channel, quarterly, 2019–2022" src="https://github.com/user-attachments/assets/4d33edfe-83fa-446c-8555-973171fafcb5" />
 
 </div>
 
-- **Direct is where most members buy.** Direct brings in 60–75% of loyalty orders and Email 21–34%. Social Media and Affiliate are each only about 1–4%.
+- **Direct is where most members buy.** Direct brings in 62–76% of loyalty orders and Email 22–32%. Social Media 1-4% and Affiliate about 1%.
 - **Email and Social Media customers joined first.** Both passed a 50% loyalty share in early 2020 (Social Media in Q1 2020 at 56%, Email in Q2 2020 at 63%), and Email peaked at 73% in Q4 2020. These channels likely reach customers who already know the brand.
 - **Direct customers decided the crossover.** They joined more slowly (23% in Q1 2020 → 40% in Q4 2020 → 53% in Q1 2021). Because Direct is the largest channel, members only became the majority overall once Direct passed 50%, matching the overall crossover (December 2020 for orders, March 2021 for sales).
 - **Something happened in Q1 2021.** Almost every channel jumped that quarter: Direct 40% → 53%, Affiliate 14% → 33%, Social Media 49% → 69%. Check whether there was a loyalty promotion or a sign-up change then.
