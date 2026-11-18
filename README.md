@@ -28,7 +28,7 @@ This report analyzes Elist's sales performance from 2019 to 2022 to identify key
 |---|---:|---:|---:|---:|---:|
 | **Total sales** | $3.87M | $10.16M | $9.13M | $4.96M | +28% |
 | **Order count** | 14.3K | 28.9K | 30.7K | 19.0K | +33% |
-| **Average order value (AOV)** | $230 | $300 | $255 | $230 | 0% |
+| **Average order value (AOV)** | $270 | $351 | $297 | $261 | -3% |
 | **Loyalty share of sales** | 11% | 29% | 53% | 55% | +44% |
 | **Refund rate** | 5.7% | 9.2% | 3.6%* | No data* | – |
  
@@ -45,16 +45,16 @@ Elist's sales nearly tripled in 2020 as COVID-19 pushed shopping online, peaking
 
 **Key insights**
 
-- **Sales:** 2020 growth came from both more orders (+102%) and higher AOV (+31%). Since then, AOV has returned to its 2019 level, and orders fell 38% in 2022.
+- **Sales:** 2020 growth came from both more orders (+102%) and higher AOV (+31%). Since then, AOV has fallen back slightly below its 2019 level, and orders fell 38% in 2022.
 - **Seasonality:** Sales dip below September every **October** and recover in November–December, in all four years. October 2022 was the low of the period at $0.18M.
 - **Product:** The 27-inch gaming monitor, MacBook Air and AirPods drive about **84% of sales**. The monitor alone grew to about half of sales by late 2022.
 - **Region:** North America is about **half of sales** and held up best in 2022. APAC grew the most since 2019, while LATAM shifted most toward low-price accessories.
-- **Loyalty:** Members overtook non-members in early 2021 and made up **55% of 2022 sales**, spending **$31 more per order** ($245 vs $214). Non-member sales are 35% below 2019. However, members fell behind non-members again from September 2022.
+- **Loyalty:** Members overtook non-members in early 2021 and made up **55% of 2022 sales**, spending **$27 more per order** ($274 vs $247). Non-member sales are 35% below 2019. However, members fell behind non-members again from September 2022.
 - **Refunds:** Laptops are refunded most often (about 1 in 6 orders in 2019–2020). Refund dates appear shifted by about 2 years, so refund trends after 2020 are unreliable.
 
 **Top 3 recommendations**
 
-1. **Grow the loyalty program through the Direct and Email channels.** Offer member-only bundles built around AirPods and monitors, and offer membership at checkout to AirPods, cable, and laptop buyers. Members spend $31 more per order, so closing that gap on the roughly 9K non-member orders in 2022 would be worth about $0.3M a year (rough estimate).
+1. **Grow the loyalty program through the Direct and Email channels.** Offer member-only bundles built around AirPods and monitors, and offer membership at checkout to AirPods, cable, and laptop buyers. Members spend $27 more per order, so closing that gap on the roughly 9K non-member orders in 2022 would be worth about $0.3M a year (rough estimate).
 2. **Run an October campaign.** October made up only 3.6% of 2022 sales, against its usual 7–8%. Holding the usual share would have added roughly $170–220K (rough estimate).
 3. **Review laptop returns, starting in North America, and fix the refund data** before any refund KPI is reported.
 ---
@@ -72,8 +72,8 @@ Elist's sales nearly tripled in 2020 as COVID-19 pushed shopping online, peaking
 - **2022 vs 2019: the business normalized on a larger base.** Sales were 28% above 2019 and orders 33% above, while AOV was unchanged. The [Loyalty Program](#loyalty-program) section shows where this lasting gain came from: loyalty members grew, while non-member sales fell below 2019.
 
 <div align="center">
-  <img width="48%" alt="AOV by year, 2019–2022" src="https://github.com/user-attachments/assets/5ebfa3c4-3b1b-4caa-bdb1-65d20e19b2b1" />
-  <img width="48%" alt="Order count by year, 2019–2022" src="https://github.com/user-attachments/assets/b0e97f91-52eb-4c0f-b747-e208abd27e54" />
+  <img width="48%" alt="AOV by year, 2019–2022" src="https://github.com/user-attachments/assets/421ce22a-982c-4001-871c-907f364fb1b5" />
+  <img width="48%" alt="Order count by year, 2019–2022" src="https://github.com/user-attachments/assets/b03d7b43-a284-45af-bea9-1e3a5b5f3f62" />
 </div>
 
 ### Seasonality
@@ -150,7 +150,7 @@ The monthly sales chart in the [Executive Summary](#executive-summary) shows thr
   <h4>Order count</h4>
   <img width="80%" alt="Loyalty vs non-loyalty order count, monthly, 2019–2022" src="https://github.com/user-attachments/assets/58cbee54-02a6-4e04-86a8-b93274b40f7a" />
   <h4>AOV</h4>
-  <img width="80%" alt="Loyalty vs non-loyalty AOV, monthly, 2019–2022" src="https://github.com/user-attachments/assets/96349d6f-8658-4757-998c-63f69cb7ea75" />
+  <img width="80%" alt="Loyalty vs non-loyalty AOV, monthly, 2019–2022" src="https://github.com/user-attachments/assets/6b3ec3d3-4ef5-4ee2-85b0-15a9ede53c1a" />
 </div>
 
 - **Inflection point: members overtook non-members in orders first (December 2020), then in sales three months later (March 2021).** Member AOV was still lower until June 2021, so members needed more orders to match non-members in sales.
